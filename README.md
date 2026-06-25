@@ -9,8 +9,11 @@ Study the distribution of transaction statuses (success, failed, pending).
 Identify the top merchants and customers contributing to transaction activity.
 Export findings in structured formats (Excel reports, PDF of visualizations).
 ## Technology used:
-### 1. Python:
-Python was the core programming language used in this project. Its simplicity, readability, and extensive ecosystem of libraries made it ideal for performing data analysis tasks. Python enabled the seamless integration of data cleaning, preprocessing, visualization, and reporting. Key reasons for choosing Python include:
-#### Large community support and availability of libraries.
+### 1. Python: Python was the core programming language used in this project. Its simplicity, readability, and extensive ecosystem of libraries made it ideal for performing data analysis tasks. Python enabled the seamless integration of data cleaning, preprocessing, visualization, and reporting. Key reasons for choosing Python include:
+Large community support and availability of libraries.
 #### Easy syntax for writing clean and understandable code.
 #### Strong support for data manipulation and visualization.
+1. **Cleaning**
+   - Removed commas
+   - Converted data types
+   - Handled missing values
