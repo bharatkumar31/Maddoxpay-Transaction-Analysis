@@ -1,0 +1,1626 @@
+Transaction_ID,Date,Customer_ID,Merchant_Name,Transaction_Amount,Payment_Method,Transaction_Status,Location
+T1000,2025-01-01,C142,Flipkart,3617.79,Net Banking,Success,Delhi
+T1001,2025-01-01,C111,Myntra,977.59,UPI,Success,Kolkata
+T1002,2025-01-01,C181,Amazon,363.17,Debit Card,Success,Delhi
+T1003,2025-01-01,C104,Myntra,4366.3,UPI,Success,Chennai
+T1004,2025-01-01,C178,Myntra,132.61,Debit Card,Success,Kolkata
+T1005,2025-01-01,C199,Amazon,3881.97,UPI,Success,Delhi
+T1006,2025-01-02,C135,Flipkart,1145.31,Credit Card,Success,Delhi
+T1007,2025-01-02,C144,Flipkart,4913.71,Debit Card,Failed,Delhi
+T1008,2025-01-02,C130,Swiggy,4953.97,UPI,Success,Mumbai
+T1009,2025-01-02,C110,Myntra,2346.44,Debit Card,Success,Kolkata
+T1010,2025-01-03,C159,Amazon,2439.55,UPI,Success,Kolkata
+T1011,2025-01-03,C184,BigBasket,1721.89,UPI,Success,Kolkata
+T1012,2025-01-03,C138,Swiggy,1482.2,UPI,Success,Chennai
+T1013,2025-01-03,C178,Swiggy,3769.16,Net Banking,Success,Delhi
+T1014,2025-01-03,C189,Amazon,474.19,Credit Card,Success,Chennai
+T1015,2025-01-04,C199,BigBasket,3220.37,Net Banking,Success,Bangalore
+T1016,2025-01-04,C137,Amazon,4746.5,Net Banking,Success,Delhi
+T1017,2025-01-05,C144,Flipkart,430.76,Net Banking,Success,Bangalore
+T1018,2025-01-05,C120,Swiggy,4958.08,Debit Card,Success,Delhi
+T1019,2025-01-05,C156,Amazon,810.27,UPI,Success,Bangalore
+T1020,2025-01-06,C119,Myntra,2337.11,Credit Card,Success,Kolkata
+T1021,2025-01-06,C127,Myntra,1806.28,Debit Card,Success,Bangalore
+T1022,2025-01-06,C189,Flipkart,3185.01,UPI,Success,Mumbai
+T1023,2025-01-07,C118,BigBasket,3415.91,Credit Card,Success,Bangalore
+T1024,2025-01-07,C131,Myntra,981.41,UPI,Success,Bangalore
+T1025,2025-01-07,C164,Myntra,3615.43,UPI,Success,Delhi
+T1026,2025-01-07,C118,BigBasket,3114.92,Credit Card,Success,Kolkata
+T1027,2025-01-07,C118,Flipkart,351.85,Debit Card,Success,Chennai
+T1028,2025-01-07,C132,Amazon,3598.84,UPI,Success,Chennai
+T1029,2025-01-07,C192,Swiggy,2691.57,UPI,Success,Bangalore
+T1030,2025-01-07,C103,Myntra,479.11,Net Banking,Success,Chennai
+T1031,2025-01-08,C105,Myntra,3309.11,UPI,Success,Kolkata
+T1032,2025-01-08,C113,Swiggy,855.15,Debit Card,Success,Bangalore
+T1033,2025-01-08,C184,Myntra,2331.92,Net Banking,Success,Chennai
+T1034,2025-01-08,C156,Amazon,1136.09,Credit Card,Success,Kolkata
+T1035,2025-01-08,C158,BigBasket,3041.79,Credit Card,Success,Delhi
+T1036,2025-01-09,C152,Myntra,3964.07,UPI,Success,Delhi
+T1037,2025-01-09,C127,Swiggy,3932.66,Credit Card,Success,Bangalore
+T1038,2025-01-09,C189,Swiggy,1250.84,Net Banking,Success,Kolkata
+T1039,2025-01-10,C182,Myntra,289.63,Debit Card,Success,Delhi
+T1040,2025-01-10,C186,Myntra,4965.05,Debit Card,Success,Mumbai
+T1041,2025-01-10,C130,Swiggy,320.12,UPI,Success,Delhi
+T1042,2025-01-11,C193,Flipkart,53.35,Net Banking,Success,Kolkata
+T1043,2025-01-11,C141,BigBasket,702.97,Credit Card,Failed,Chennai
+T1044,2025-01-11,C162,BigBasket,326.75,Debit Card,Failed,Kolkata
+T1045,2025-01-11,C181,Swiggy,4207.46,Credit Card,Success,Delhi
+T1046,2025-01-11,C158,Myntra,3483.12,UPI,Success,Kolkata
+T1047,2025-01-12,C183,Flipkart,3825.49,Debit Card,Success,Delhi
+T1048,2025-01-12,C106,Myntra,2553.38,Net Banking,Success,Chennai
+T1049,2025-01-12,C170,Swiggy,3615.55,UPI,Success,Mumbai
+T1050,2025-01-12,C128,Amazon,1392.73,UPI,Success,Mumbai
+T1051,2025-01-12,C136,Amazon,62.24,UPI,Success,Chennai
+T1052,2025-01-13,C127,Amazon,4020.73,Net Banking,Failed,Bangalore
+T1053,2025-01-13,C173,Flipkart,1197.68,UPI,Pending,Mumbai
+T1054,2025-01-13,C141,Amazon,4205.89,Credit Card,Success,Bangalore
+T1055,2025-01-13,C182,Flipkart,315.8,Debit Card,Success,Kolkata
+T1056,2025-01-13,C168,Amazon,1949.36,UPI,Success,Mumbai
+T1057,2025-01-14,C106,Swiggy,4998.05,Net Banking,Success,Bangalore
+T1058,2025-01-14,C153,Myntra,567.52,Net Banking,Success,Chennai
+T1059,2025-01-14,C195,BigBasket,1427.22,UPI,Success,Chennai
+T1060,2025-01-15,C120,Flipkart,579.51,Debit Card,Success,Bangalore
+T1061,2025-01-15,C197,Myntra,898.35,UPI,Success,Chennai
+T1062,2025-01-15,C162,Myntra,2796.82,Debit Card,Success,Kolkata
+T1063,2025-01-15,C186,BigBasket,732.44,UPI,Success,Delhi
+T1064,2025-01-15,C143,BigBasket,713.04,Credit Card,Success,Mumbai
+T1065,2025-01-16,C136,Flipkart,751.29,Net Banking,Success,Chennai
+T1066,2025-01-16,C176,Myntra,1337.83,Net Banking,Success,Bangalore
+T1067,2025-01-16,C170,Myntra,4605.94,Credit Card,Success,Kolkata
+T1068,2025-01-16,C183,Amazon,3482.51,UPI,Success,Delhi
+T1069,2025-01-16,C183,Swiggy,4053.21,Debit Card,Success,Mumbai
+T1070,2025-01-17,C130,Flipkart,260.63,Credit Card,Success,Delhi
+T1071,2025-01-17,C145,Swiggy,4187.83,Credit Card,Success,Chennai
+T1072,2025-01-17,C136,Amazon,2075.25,Debit Card,Success,Bangalore
+T1073,2025-01-17,C195,BigBasket,1402.97,Credit Card,Success,Chennai
+T1074,2025-01-18,C170,Flipkart,2741.04,Net Banking,Success,Bangalore
+T1075,2025-01-18,C182,Myntra,1606.79,Net Banking,Success,Delhi
+T1076,2025-01-18,C180,Flipkart,1827.24,Debit Card,Success,Mumbai
+T1077,2025-01-18,C156,Flipkart,1369.31,Credit Card,Success,Bangalore
+T1078,2025-01-18,C108,Myntra,2282.45,Credit Card,Success,Chennai
+T1079,2025-01-18,C151,Amazon,1568.77,Net Banking,Success,Delhi
+T1080,2025-01-18,C187,Myntra,2706.0,Credit Card,Success,Mumbai
+T1081,2025-01-18,C123,Amazon,95.25,UPI,Success,Delhi
+T1082,2025-01-18,C197,Swiggy,4086.6,Debit Card,Success,Chennai
+T1083,2025-01-18,C158,Myntra,1785.62,UPI,Success,Delhi
+T1084,2025-01-19,C177,Myntra,2655.96,Credit Card,Success,Chennai
+T1085,2025-01-19,C166,Myntra,937.75,Credit Card,Success,Mumbai
+T1086,2025-01-19,C110,Swiggy,4158.85,Net Banking,Failed,Delhi
+T1087,2025-01-19,C128,Amazon,4482.73,Net Banking,Success,Kolkata
+T1088,2025-01-19,C163,Amazon,4092.81,Credit Card,Success,Delhi
+T1089,2025-01-19,C190,BigBasket,2422.21,Net Banking,Success,Kolkata
+T1090,2025-01-20,C117,Myntra,2852.4,Credit Card,Failed,Chennai
+T1091,2025-01-20,C122,Swiggy,4240.08,Credit Card,Success,Chennai
+T1092,2025-01-20,C110,Swiggy,3910.69,Credit Card,Success,Mumbai
+T1093,2025-01-20,C158,Swiggy,1257.37,UPI,Success,Kolkata
+T1094,2025-01-21,C162,Myntra,217.43,UPI,Success,Chennai
+T1095,2025-01-21,C171,Amazon,1077.8,Debit Card,Success,Bangalore
+T1096,2025-01-21,C112,BigBasket,459.22,Debit Card,Success,Kolkata
+T1097,2025-01-21,C151,Swiggy,2441.86,UPI,Success,Chennai
+T1098,2025-01-21,C104,Flipkart,744.47,UPI,Success,Chennai
+T1099,2025-01-21,C106,Amazon,3903.76,Credit Card,Success,Kolkata
+T1100,2025-01-21,C188,Flipkart,1694.48,Credit Card,Success,Chennai
+T1101,2025-01-22,C194,Swiggy,1434.89,Credit Card,Success,Mumbai
+T1102,2025-01-22,C163,Amazon,3119.95,Debit Card,Success,Chennai
+T1103,2025-01-22,C133,Swiggy,3627.75,UPI,Success,Bangalore
+T1104,2025-01-22,C197,BigBasket,866.74,UPI,Success,Bangalore
+T1105,2025-01-23,C114,Myntra,3676.29,Net Banking,Success,Kolkata
+T1106,2025-01-23,C170,Amazon,630.72,Net Banking,Success,Delhi
+T1107,2025-01-24,C134,BigBasket,1062.34,Debit Card,Success,Bangalore
+T1108,2025-01-24,C106,Flipkart,4684.86,UPI,Success,Mumbai
+T1109,2025-01-24,C195,Flipkart,1945.75,Net Banking,Success,Kolkata
+T1110,2025-01-24,C152,Swiggy,2189.07,UPI,Success,Bangalore
+T1111,2025-01-24,C169,BigBasket,2528.92,Debit Card,Failed,Mumbai
+T1112,2025-01-24,C138,BigBasket,1323.77,Net Banking,Success,Bangalore
+T1113,2025-01-24,C180,Myntra,1836.1,Credit Card,Success,Kolkata
+T1114,2025-01-25,C149,BigBasket,2923.57,Credit Card,Success,Kolkata
+T1115,2025-01-25,C190,Swiggy,4834.22,Credit Card,Failed,Bangalore
+T1116,2025-01-25,C124,Swiggy,2897.42,UPI,Success,Kolkata
+T1117,2025-01-26,C100,BigBasket,4706.35,Debit Card,Success,Bangalore
+T1118,2025-01-26,C130,Amazon,4794.39,UPI,Success,Delhi
+T1119,2025-01-26,C109,BigBasket,82.73,Debit Card,Success,Bangalore
+T1120,2025-01-26,C130,Swiggy,1775.46,UPI,Success,Kolkata
+T1121,2025-01-27,C138,Flipkart,4815.72,UPI,Success,Bangalore
+T1122,2025-01-27,C129,Myntra,2008.2,Net Banking,Success,Mumbai
+T1123,2025-01-27,C169,Swiggy,1289.43,Debit Card,Success,Delhi
+T1124,2025-01-27,C167,Amazon,4787.25,UPI,Success,Chennai
+T1125,2025-01-27,C122,BigBasket,3439.99,UPI,Success,Kolkata
+T1126,2025-01-28,C184,Myntra,2407.0,UPI,Success,Delhi
+T1127,2025-01-28,C113,Myntra,4341.89,Debit Card,Success,Bangalore
+T1128,2025-01-28,C168,Amazon,4494.67,Credit Card,Success,Chennai
+T1129,2025-01-28,C141,Swiggy,4827.66,Credit Card,Success,Chennai
+T1130,2025-01-28,C117,BigBasket,1047.25,UPI,Success,Kolkata
+T1131,2025-01-28,C118,Swiggy,3874.44,Debit Card,Success,Delhi
+T1132,2025-01-28,C134,Myntra,1655.93,Debit Card,Success,Chennai
+T1133,2025-01-28,C158,BigBasket,3778.13,Net Banking,Success,Delhi
+T1134,2025-01-29,C119,BigBasket,2213.59,UPI,Success,Chennai
+T1135,2025-01-29,C194,BigBasket,75.72,Credit Card,Success,Chennai
+T1136,2025-01-29,C187,Flipkart,2910.77,UPI,Success,Bangalore
+T1137,2025-01-29,C188,Amazon,4374.42,Credit Card,Failed,Bangalore
+T1138,2025-01-29,C152,Myntra,1295.91,UPI,Success,Delhi
+T1139,2025-01-30,C175,Swiggy,703.32,UPI,Success,Chennai
+T1140,2025-01-30,C136,Amazon,4574.2,Net Banking,Success,Mumbai
+T1141,2025-01-30,C164,Myntra,3579.89,Debit Card,Success,Delhi
+T1142,2025-01-30,C161,Swiggy,4962.81,Credit Card,Failed,Chennai
+T1143,2025-01-30,C104,Flipkart,1543.16,Debit Card,Success,Mumbai
+T1144,2025-01-30,C100,Flipkart,1201.49,UPI,Success,Kolkata
+T1145,2025-01-31,C195,Flipkart,4820.95,UPI,Success,Bangalore
+T1146,2025-01-31,C134,Flipkart,3479.53,Net Banking,Success,Kolkata
+T1147,2025-01-31,C194,Flipkart,4805.28,UPI,Success,Kolkata
+T1148,2025-02-01,C167,BigBasket,57.24,Debit Card,Success,Bangalore
+T1149,2025-02-01,C150,Swiggy,4049.9,Credit Card,Failed,Bangalore
+T1150,2025-02-01,C181,Swiggy,3226.96,Debit Card,Success,Bangalore
+T1151,2025-02-02,C144,Amazon,2982.97,Debit Card,Success,Chennai
+T1152,2025-02-02,C111,Swiggy,1637.29,Credit Card,Success,Chennai
+T1153,2025-02-02,C106,BigBasket,2200.69,UPI,Success,Kolkata
+T1154,2025-02-02,C144,BigBasket,1435.28,Net Banking,Success,Mumbai
+T1155,2025-02-02,C146,Flipkart,2234.37,Credit Card,Success,Chennai
+T1156,2025-02-02,C140,Amazon,4739.03,Debit Card,Success,Bangalore
+T1157,2025-02-03,C181,Flipkart,4062.98,Net Banking,Success,Bangalore
+T1158,2025-02-03,C167,Myntra,1865.97,Credit Card,Failed,Mumbai
+T1159,2025-02-03,C137,BigBasket,269.27,Credit Card,Success,Kolkata
+T1160,2025-02-03,C145,BigBasket,2319.32,Net Banking,Success,Chennai
+T1161,2025-02-04,C111,BigBasket,4429.03,Debit Card,Success,Delhi
+T1162,2025-02-04,C125,Flipkart,3939.17,Net Banking,Success,Chennai
+T1163,2025-02-04,C158,Flipkart,4252.58,Debit Card,Success,Delhi
+T1164,2025-02-05,C144,BigBasket,619.67,Credit Card,Success,Chennai
+T1165,2025-02-05,C125,Amazon,742.76,Credit Card,Success,Bangalore
+T1166,2025-02-05,C107,Myntra,1576.12,Debit Card,Failed,Kolkata
+T1167,2025-02-05,C129,Flipkart,4809.27,UPI,Success,Kolkata
+T1168,2025-02-05,C160,BigBasket,4353.9,UPI,Success,Mumbai
+T1169,2025-02-06,C137,Swiggy,4647.39,UPI,Success,Chennai
+T1170,2025-02-07,C157,Myntra,2110.47,UPI,Success,Bangalore
+T1171,2025-02-07,C191,Swiggy,2840.84,UPI,Success,Delhi
+T1172,2025-02-07,C104,Myntra,664.97,Credit Card,Success,Mumbai
+T1173,2025-02-08,C112,Swiggy,1751.51,Debit Card,Success,Chennai
+T1174,2025-02-08,C175,Flipkart,1361.79,Credit Card,Failed,Mumbai
+T1175,2025-02-09,C165,BigBasket,4233.84,Credit Card,Success,Kolkata
+T1176,2025-02-09,C166,Swiggy,4891.96,Credit Card,Success,Chennai
+T1177,2025-02-09,C185,Amazon,4140.61,Credit Card,Failed,Kolkata
+T1178,2025-02-09,C111,Flipkart,2849.47,Credit Card,Success,Kolkata
+T1179,2025-02-09,C134,Amazon,4201.44,Debit Card,Success,Delhi
+T1180,2025-02-09,C173,Amazon,1285.9,Credit Card,Success,Bangalore
+T1181,2025-02-09,C119,BigBasket,3544.64,Net Banking,Success,Chennai
+T1182,2025-02-09,C124,Flipkart,1930.21,UPI,Success,Kolkata
+T1183,2025-02-09,C161,BigBasket,1209.01,Credit Card,Success,Bangalore
+T1184,2025-02-10,C133,Swiggy,4410.9,Net Banking,Success,Delhi
+T1185,2025-02-10,C197,Swiggy,4999.5,Debit Card,Success,Chennai
+T1186,2025-02-10,C109,BigBasket,3856.58,Net Banking,Failed,Kolkata
+T1187,2025-02-10,C159,Myntra,739.21,Credit Card,Success,Delhi
+T1188,2025-02-10,C132,Amazon,1385.34,Net Banking,Success,Chennai
+T1189,2025-02-10,C197,BigBasket,4677.05,Net Banking,Success,Mumbai
+T1190,2025-02-10,C143,Flipkart,523.11,Credit Card,Success,Kolkata
+T1191,2025-02-11,C135,Amazon,1934.62,Debit Card,Success,Delhi
+T1192,2025-02-11,C127,BigBasket,53.38,Credit Card,Failed,Chennai
+T1193,2025-02-11,C124,Flipkart,363.49,UPI,Success,Delhi
+T1194,2025-02-11,C195,BigBasket,3533.31,UPI,Success,Chennai
+T1195,2025-02-11,C119,Flipkart,134.86,UPI,Success,Chennai
+T1196,2025-02-11,C157,Swiggy,4951.65,Debit Card,Success,Chennai
+T1197,2025-02-12,C195,Flipkart,1026.76,Credit Card,Success,Bangalore
+T1198,2025-02-12,C198,BigBasket,4845.19,Debit Card,Success,Mumbai
+T1199,2025-02-12,C139,BigBasket,1112.84,Credit Card,Success,Chennai
+T1200,2025-02-12,C105,BigBasket,4414.05,Credit Card,Success,Delhi
+T1201,2025-02-12,C119,Flipkart,359.69,Credit Card,Success,Kolkata
+T1202,2025-02-13,C102,Myntra,559.38,Credit Card,Success,Delhi
+T1203,2025-02-13,C128,Swiggy,2014.64,Debit Card,Failed,Mumbai
+T1204,2025-02-14,C197,Amazon,3554.11,Credit Card,Success,Delhi
+T1205,2025-02-15,C197,BigBasket,510.67,UPI,Success,Kolkata
+T1206,2025-02-15,C159,BigBasket,706.86,Net Banking,Success,Bangalore
+T1207,2025-02-15,C179,Amazon,1263.38,Net Banking,Success,Delhi
+T1208,2025-02-15,C163,Swiggy,2572.14,UPI,Success,Delhi
+T1209,2025-02-15,C196,Flipkart,95.97,Credit Card,Success,Delhi
+T1210,2025-02-15,C113,Flipkart,746.18,Net Banking,Success,Chennai
+T1211,2025-02-16,C125,BigBasket,1509.8,Debit Card,Success,Chennai
+T1212,2025-02-16,C167,Myntra,3172.23,Net Banking,Failed,Chennai
+T1213,2025-02-16,C170,Swiggy,3257.45,Debit Card,Success,Mumbai
+T1214,2025-02-17,C179,Flipkart,1607.17,UPI,Success,Chennai
+T1215,2025-02-18,C118,Amazon,2618.05,Debit Card,Success,Delhi
+T1216,2025-02-18,C119,Swiggy,1858.79,Net Banking,Success,Kolkata
+T1217,2025-02-18,C109,Flipkart,1522.35,Credit Card,Success,Chennai
+T1218,2025-02-18,C172,BigBasket,4715.09,Net Banking,Failed,Kolkata
+T1219,2025-02-18,C157,Myntra,1628.6,Credit Card,Success,Kolkata
+T1220,2025-02-19,C119,BigBasket,3498.98,Credit Card,Success,Bangalore
+T1221,2025-02-19,C156,Flipkart,1195.6,UPI,Success,Chennai
+T1222,2025-02-19,C142,Flipkart,2294.19,Credit Card,Success,Delhi
+T1223,2025-02-19,C171,BigBasket,3774.61,Net Banking,Success,Chennai
+T1224,2025-02-19,C107,Amazon,2352.22,Net Banking,Success,Bangalore
+T1225,2025-02-20,C140,Myntra,1344.73,Net Banking,Success,Kolkata
+T1226,2025-02-20,C113,Swiggy,1642.92,Debit Card,Success,Mumbai
+T1227,2025-02-20,C160,BigBasket,4530.78,Credit Card,Success,Kolkata
+T1228,2025-02-20,C130,BigBasket,2106.39,Net Banking,Success,Delhi
+T1229,2025-02-20,C155,BigBasket,3883.11,Net Banking,Success,Delhi
+T1230,2025-02-21,C133,Myntra,91.95,Credit Card,Success,Mumbai
+T1231,2025-02-21,C134,BigBasket,3997.08,Credit Card,Success,Mumbai
+T1232,2025-02-21,C166,Myntra,2841.06,Credit Card,Success,Mumbai
+T1233,2025-02-22,C107,BigBasket,3725.47,Net Banking,Success,Delhi
+T1234,2025-02-22,C184,BigBasket,1380.15,Net Banking,Success,Bangalore
+T1235,2025-02-22,C139,Amazon,4953.85,Net Banking,Failed,Delhi
+T1236,2025-02-23,C176,Swiggy,3916.56,Debit Card,Success,Chennai
+T1237,2025-02-23,C110,BigBasket,4040.53,Net Banking,Pending,Delhi
+T1238,2025-02-23,C189,Myntra,3397.36,UPI,Success,Delhi
+T1239,2025-02-23,C153,BigBasket,836.94,Net Banking,Pending,Chennai
+T1240,2025-02-24,C122,Myntra,1096.51,UPI,Failed,Chennai
+T1241,2025-02-24,C100,Swiggy,280.48,UPI,Success,Delhi
+T1242,2025-02-24,C118,Swiggy,4970.09,Net Banking,Success,Bangalore
+T1243,2025-02-24,C116,Myntra,2303.23,UPI,Success,Kolkata
+T1244,2025-02-24,C169,Amazon,1250.0,UPI,Failed,Mumbai
+T1245,2025-02-24,C152,Myntra,249.63,Debit Card,Success,Delhi
+T1246,2025-02-24,C149,BigBasket,1068.63,Net Banking,Success,Delhi
+T1247,2025-02-24,C177,Myntra,4760.73,Net Banking,Success,Bangalore
+T1248,2025-02-24,C143,Swiggy,1827.6,UPI,Success,Chennai
+T1249,2025-02-24,C163,BigBasket,1807.29,UPI,Failed,Delhi
+T1250,2025-02-25,C139,Swiggy,4579.88,Net Banking,Success,Chennai
+T1251,2025-02-25,C186,BigBasket,3517.78,Credit Card,Success,Bangalore
+T1252,2025-02-25,C133,Myntra,469.52,Debit Card,Success,Chennai
+T1253,2025-02-25,C137,Myntra,4175.15,Net Banking,Success,Kolkata
+T1254,2025-02-26,C135,Swiggy,1508.02,Net Banking,Success,Kolkata
+T1255,2025-02-26,C179,Swiggy,512.83,Debit Card,Pending,Delhi
+T1256,2025-02-26,C178,Amazon,2244.99,Net Banking,Success,Chennai
+T1257,2025-02-26,C135,Flipkart,3814.39,Net Banking,Success,Delhi
+T1258,2025-02-26,C123,BigBasket,4206.67,Credit Card,Success,Bangalore
+T1259,2025-02-26,C182,Myntra,4530.14,Debit Card,Failed,Mumbai
+T1260,2025-02-26,C177,Myntra,416.13,UPI,Success,Chennai
+T1261,2025-02-26,C184,Myntra,3790.27,Net Banking,Success,Kolkata
+T1262,2025-02-26,C186,BigBasket,2676.02,Credit Card,Success,Delhi
+T1263,2025-02-27,C165,BigBasket,3716.3,UPI,Success,Mumbai
+T1264,2025-02-27,C110,Amazon,545.66,Credit Card,Success,Kolkata
+T1265,2025-02-27,C147,BigBasket,2423.0,Debit Card,Success,Mumbai
+T1266,2025-02-27,C116,BigBasket,3988.5,Credit Card,Success,Chennai
+T1267,2025-02-27,C160,Swiggy,4306.81,Net Banking,Success,Bangalore
+T1268,2025-02-28,C161,BigBasket,3108.28,Credit Card,Success,Mumbai
+T1269,2025-02-28,C126,Flipkart,2524.3,Credit Card,Success,Mumbai
+T1270,2025-02-28,C101,Amazon,3473.96,Credit Card,Success,Kolkata
+T1271,2025-02-28,C103,Amazon,3590.42,Credit Card,Success,Delhi
+T1272,2025-02-28,C129,Myntra,3448.5,Debit Card,Success,Kolkata
+T1273,2025-03-01,C132,Swiggy,2782.79,Debit Card,Success,Delhi
+T1274,2025-03-01,C171,BigBasket,643.57,Debit Card,Success,Kolkata
+T1275,2025-03-01,C162,Amazon,2464.88,Debit Card,Success,Kolkata
+T1276,2025-03-02,C112,Flipkart,863.66,UPI,Success,Chennai
+T1277,2025-03-02,C159,Myntra,3208.99,Net Banking,Success,Bangalore
+T1278,2025-03-02,C157,Flipkart,4294.55,Net Banking,Success,Bangalore
+T1279,2025-03-02,C137,Myntra,3294.65,Net Banking,Success,Bangalore
+T1280,2025-03-02,C140,Swiggy,3089.83,Net Banking,Success,Kolkata
+T1281,2025-03-02,C136,Flipkart,725.85,Debit Card,Success,Chennai
+T1282,2025-03-03,C142,Swiggy,1558.06,Debit Card,Success,Chennai
+T1283,2025-03-03,C113,Myntra,1017.96,Net Banking,Success,Chennai
+T1284,2025-03-03,C114,Myntra,921.7,Net Banking,Success,Delhi
+T1285,2025-03-03,C160,Myntra,1396.18,Debit Card,Success,Kolkata
+T1286,2025-03-03,C174,Swiggy,4454.28,UPI,Success,Delhi
+T1287,2025-03-03,C179,Flipkart,3624.09,Debit Card,Success,Bangalore
+T1288,2025-03-03,C155,Swiggy,615.32,Net Banking,Success,Chennai
+T1289,2025-03-04,C132,Flipkart,3568.23,Debit Card,Success,Delhi
+T1290,2025-03-04,C124,Swiggy,2490.76,Net Banking,Success,Bangalore
+T1291,2025-03-04,C148,Myntra,2846.76,Debit Card,Success,Bangalore
+T1292,2025-03-04,C190,Amazon,4712.52,Debit Card,Success,Delhi
+T1293,2025-03-04,C178,Swiggy,435.54,UPI,Success,Delhi
+T1294,2025-03-04,C181,Myntra,1960.39,Credit Card,Success,Mumbai
+T1295,2025-03-04,C161,Myntra,4830.3,UPI,Success,Kolkata
+T1296,2025-03-04,C174,Myntra,2816.31,Credit Card,Success,Kolkata
+T1297,2025-03-04,C162,Flipkart,1043.32,UPI,Success,Chennai
+T1298,2025-03-05,C150,BigBasket,557.01,Debit Card,Success,Bangalore
+T1299,2025-03-05,C162,Swiggy,2218.92,Credit Card,Success,Kolkata
+T1300,2025-03-05,C140,Flipkart,4822.88,Net Banking,Success,Chennai
+T1301,2025-03-05,C136,Flipkart,2955.83,Debit Card,Success,Mumbai
+T1302,2025-03-05,C155,Amazon,2500.1,UPI,Success,Chennai
+T1303,2025-03-05,C170,Amazon,4103.88,Net Banking,Success,Chennai
+T1304,2025-03-05,C153,Swiggy,4240.2,Credit Card,Failed,Mumbai
+T1305,2025-03-05,C148,Flipkart,4920.31,Debit Card,Success,Bangalore
+T1306,2025-03-05,C176,Myntra,4757.4,Net Banking,Failed,Mumbai
+T1307,2025-03-05,C125,Flipkart,1406.4,Net Banking,Success,Kolkata
+T1308,2025-03-06,C199,Myntra,2602.29,Net Banking,Success,Delhi
+T1309,2025-03-06,C188,Myntra,3414.49,Net Banking,Success,Delhi
+T1310,2025-03-06,C110,BigBasket,4484.04,Net Banking,Success,Delhi
+T1311,2025-03-07,C153,Myntra,3430.56,Credit Card,Success,Delhi
+T1312,2025-03-07,C167,Swiggy,2837.39,UPI,Success,Chennai
+T1313,2025-03-08,C193,BigBasket,2860.71,Credit Card,Success,Bangalore
+T1314,2025-03-08,C141,BigBasket,2313.74,UPI,Success,Bangalore
+T1315,2025-03-08,C148,Swiggy,3984.49,UPI,Success,Kolkata
+T1316,2025-03-08,C197,Swiggy,1908.52,Credit Card,Success,Kolkata
+T1317,2025-03-08,C138,Flipkart,2612.86,Credit Card,Success,Delhi
+T1318,2025-03-09,C181,BigBasket,1823.2,Debit Card,Success,Kolkata
+T1319,2025-03-09,C112,BigBasket,1512.93,Net Banking,Success,Chennai
+T1320,2025-03-09,C164,Myntra,1663.63,Debit Card,Success,Mumbai
+T1321,2025-03-09,C173,Swiggy,2069.82,Debit Card,Success,Mumbai
+T1322,2025-03-09,C104,BigBasket,1606.7,Net Banking,Success,Mumbai
+T1323,2025-03-09,C158,Amazon,430.84,Net Banking,Success,Chennai
+T1324,2025-03-09,C149,Swiggy,4597.91,Debit Card,Failed,Delhi
+T1325,2025-03-09,C101,BigBasket,3186.46,Net Banking,Success,Bangalore
+T1326,2025-03-09,C105,Myntra,3985.13,UPI,Success,Kolkata
+T1327,2025-03-09,C151,Myntra,1492.67,Debit Card,Success,Mumbai
+T1328,2025-03-09,C159,Myntra,1222.88,Net Banking,Success,Bangalore
+T1329,2025-03-09,C118,Amazon,3886.81,Net Banking,Success,Mumbai
+T1330,2025-03-10,C115,Flipkart,579.73,Net Banking,Success,Delhi
+T1331,2025-03-10,C101,Myntra,1601.09,Debit Card,Success,Chennai
+T1332,2025-03-10,C120,Swiggy,2664.39,UPI,Success,Kolkata
+T1333,2025-03-10,C110,Myntra,3187.81,Net Banking,Success,Kolkata
+T1334,2025-03-10,C109,Flipkart,584.77,Debit Card,Success,Bangalore
+T1335,2025-03-11,C175,BigBasket,4246.94,Net Banking,Success,Bangalore
+T1336,2025-03-11,C195,Swiggy,2356.97,Credit Card,Success,Chennai
+T1337,2025-03-11,C151,Myntra,881.04,Net Banking,Success,Mumbai
+T1338,2025-03-11,C171,Flipkart,4155.31,Credit Card,Success,Delhi
+T1339,2025-03-11,C145,Amazon,3571.4,Net Banking,Success,Mumbai
+T1340,2025-03-12,C180,Flipkart,2990.45,Net Banking,Success,Bangalore
+T1341,2025-03-12,C163,BigBasket,1670.08,UPI,Success,Mumbai
+T1342,2025-03-12,C184,Amazon,3635.31,Credit Card,Success,Delhi
+T1343,2025-03-12,C108,Myntra,419.7,Debit Card,Success,Delhi
+T1344,2025-03-12,C140,Amazon,1341.91,Debit Card,Success,Bangalore
+T1345,2025-03-13,C167,Amazon,4847.05,Debit Card,Failed,Mumbai
+T1346,2025-03-13,C197,Flipkart,3401.84,UPI,Success,Kolkata
+T1347,2025-03-13,C180,Myntra,108.66,Debit Card,Success,Bangalore
+T1348,2025-03-13,C194,Amazon,2098.95,Debit Card,Success,Bangalore
+T1349,2025-03-13,C181,Swiggy,1420.99,UPI,Pending,Delhi
+T1350,2025-03-13,C115,Amazon,470.66,Net Banking,Success,Delhi
+T1351,2025-03-13,C112,Swiggy,1682.83,Debit Card,Success,Kolkata
+T1352,2025-03-13,C109,Flipkart,2757.88,Credit Card,Success,Bangalore
+T1353,2025-03-13,C128,Swiggy,4818.08,UPI,Success,Bangalore
+T1354,2025-03-13,C199,Flipkart,940.09,Debit Card,Failed,Delhi
+T1355,2025-03-14,C106,BigBasket,1180.6,UPI,Success,Chennai
+T1356,2025-03-14,C173,Amazon,4150.98,Net Banking,Failed,Delhi
+T1357,2025-03-14,C101,Swiggy,871.61,UPI,Success,Delhi
+T1358,2025-03-15,C118,Swiggy,678.31,UPI,Success,Bangalore
+T1359,2025-03-15,C156,Amazon,2662.19,Credit Card,Success,Mumbai
+T1360,2025-03-15,C155,BigBasket,819.28,Debit Card,Success,Chennai
+T1361,2025-03-16,C108,Flipkart,3101.77,UPI,Success,Kolkata
+T1362,2025-03-17,C101,Swiggy,4728.68,Net Banking,Success,Mumbai
+T1363,2025-03-17,C160,Swiggy,3091.7,Net Banking,Success,Mumbai
+T1364,2025-03-17,C138,BigBasket,2166.65,Net Banking,Success,Mumbai
+T1365,2025-03-17,C176,Swiggy,336.63,Credit Card,Success,Chennai
+T1366,2025-03-17,C141,Swiggy,1575.92,Net Banking,Success,Kolkata
+T1367,2025-03-18,C132,Swiggy,3412.53,Net Banking,Success,Mumbai
+T1368,2025-03-18,C187,BigBasket,3608.95,UPI,Success,Mumbai
+T1369,2025-03-18,C147,Myntra,4127.18,UPI,Success,Delhi
+T1370,2025-03-18,C105,Myntra,1494.64,Debit Card,Success,Delhi
+T1371,2025-03-18,C124,Myntra,1984.12,Credit Card,Success,Delhi
+T1372,2025-03-19,C120,Swiggy,1786.54,Credit Card,Success,Delhi
+T1373,2025-03-19,C199,BigBasket,876.47,UPI,Success,Kolkata
+T1374,2025-03-19,C175,BigBasket,4767.43,Debit Card,Success,Delhi
+T1375,2025-03-19,C185,BigBasket,725.44,Net Banking,Success,Mumbai
+T1376,2025-03-20,C147,Swiggy,3159.0,Credit Card,Failed,Chennai
+T1377,2025-03-20,C116,Amazon,4792.26,UPI,Success,Delhi
+T1378,2025-03-20,C185,Swiggy,2989.34,Credit Card,Success,Kolkata
+T1379,2025-03-21,C179,Amazon,2750.86,Net Banking,Success,Chennai
+T1380,2025-03-21,C146,Myntra,4574.04,Credit Card,Success,Kolkata
+T1381,2025-03-21,C158,Swiggy,4180.91,UPI,Success,Mumbai
+T1382,2025-03-21,C137,Swiggy,4597.96,Credit Card,Success,Kolkata
+T1383,2025-03-21,C198,BigBasket,4593.59,Net Banking,Failed,Kolkata
+T1384,2025-03-22,C145,Myntra,2580.96,Debit Card,Success,Kolkata
+T1385,2025-03-22,C147,BigBasket,610.39,Debit Card,Success,Chennai
+T1386,2025-03-22,C105,Myntra,882.63,Credit Card,Success,Bangalore
+T1387,2025-03-22,C184,BigBasket,4296.9,Net Banking,Success,Kolkata
+T1388,2025-03-22,C121,Myntra,4949.39,UPI,Success,Kolkata
+T1389,2025-03-22,C142,Flipkart,2120.28,Credit Card,Success,Delhi
+T1390,2025-03-22,C195,Swiggy,2665.02,Net Banking,Success,Mumbai
+T1391,2025-03-22,C120,Myntra,2403.73,Credit Card,Success,Kolkata
+T1392,2025-03-23,C183,Flipkart,4984.95,Net Banking,Success,Chennai
+T1393,2025-03-23,C147,Myntra,2702.83,Net Banking,Success,Bangalore
+T1394,2025-03-24,C132,Swiggy,1396.3,Net Banking,Success,Kolkata
+T1395,2025-03-24,C165,BigBasket,56.34,UPI,Success,Chennai
+T1396,2025-03-24,C111,Swiggy,2134.46,Net Banking,Success,Bangalore
+T1397,2025-03-25,C127,Swiggy,3508.45,Debit Card,Success,Bangalore
+T1398,2025-03-25,C178,BigBasket,2785.87,Debit Card,Success,Delhi
+T1399,2025-03-25,C132,BigBasket,4236.52,Debit Card,Success,Mumbai
+T1400,2025-03-25,C158,Amazon,3920.48,Debit Card,Success,Bangalore
+T1401,2025-03-25,C147,Flipkart,2449.16,Debit Card,Success,Kolkata
+T1402,2025-03-26,C169,BigBasket,1423.47,Debit Card,Success,Mumbai
+T1403,2025-03-26,C117,Swiggy,4247.07,Credit Card,Success,Mumbai
+T1404,2025-03-26,C154,Swiggy,1278.68,Debit Card,Success,Mumbai
+T1405,2025-03-26,C178,BigBasket,1950.96,UPI,Success,Delhi
+T1406,2025-03-26,C111,Myntra,1829.67,Credit Card,Success,Delhi
+T1407,2025-03-27,C194,BigBasket,2062.24,Debit Card,Pending,Mumbai
+T1408,2025-03-27,C114,Myntra,2385.23,Credit Card,Success,Delhi
+T1409,2025-03-27,C186,Swiggy,4094.69,Net Banking,Success,Bangalore
+T1410,2025-03-27,C129,Flipkart,3676.98,Debit Card,Success,Mumbai
+T1411,2025-03-28,C146,Myntra,3290.31,Credit Card,Success,Mumbai
+T1412,2025-03-28,C175,BigBasket,1073.99,Credit Card,Success,Bangalore
+T1413,2025-03-28,C139,Swiggy,4567.75,Credit Card,Success,Kolkata
+T1414,2025-03-28,C156,Myntra,2521.55,Credit Card,Success,Mumbai
+T1415,2025-03-28,C134,Myntra,2890.73,UPI,Failed,Mumbai
+T1416,2025-03-28,C130,BigBasket,3451.44,Credit Card,Success,Delhi
+T1417,2025-03-29,C102,Swiggy,2908.26,Net Banking,Success,Chennai
+T1418,2025-03-29,C183,BigBasket,3673.33,Net Banking,Success,Delhi
+T1419,2025-03-29,C153,Amazon,3657.71,Net Banking,Success,Delhi
+T1420,2025-03-29,C136,Swiggy,804.44,Net Banking,Success,Delhi
+T1421,2025-03-29,C155,BigBasket,577.43,Debit Card,Success,Mumbai
+T1422,2025-03-30,C116,Myntra,2478.45,Credit Card,Success,Mumbai
+T1423,2025-03-30,C109,Flipkart,4647.78,Credit Card,Success,Mumbai
+T1424,2025-03-30,C158,Flipkart,608.08,Debit Card,Success,Mumbai
+T1425,2025-03-31,C186,BigBasket,4871.2,UPI,Success,Chennai
+T1426,2025-03-31,C159,Amazon,467.03,UPI,Success,Chennai
+T1427,2025-03-31,C132,Flipkart,2960.22,UPI,Success,Mumbai
+T1428,2025-03-31,C181,Amazon,3626.04,Credit Card,Success,Mumbai
+T1429,2025-04-01,C171,BigBasket,697.04,UPI,Success,Chennai
+T1430,2025-04-01,C119,BigBasket,417.29,Credit Card,Success,Mumbai
+T1431,2025-04-01,C138,Myntra,3386.46,Debit Card,Success,Mumbai
+T1432,2025-04-01,C195,Myntra,3873.09,Credit Card,Success,Delhi
+T1433,2025-04-01,C146,Myntra,1890.63,UPI,Failed,Chennai
+T1434,2025-04-02,C168,Amazon,3226.39,Credit Card,Failed,Bangalore
+T1435,2025-04-02,C195,Swiggy,3267.49,UPI,Success,Chennai
+T1436,2025-04-03,C142,BigBasket,1270.62,Credit Card,Success,Mumbai
+T1437,2025-04-03,C160,Myntra,2091.34,Debit Card,Success,Delhi
+T1438,2025-04-03,C175,Amazon,1692.06,Net Banking,Success,Chennai
+T1439,2025-04-03,C179,Flipkart,3031.82,Net Banking,Success,Bangalore
+T1440,2025-04-04,C111,Amazon,1051.48,Debit Card,Success,Kolkata
+T1441,2025-04-04,C119,Myntra,4888.52,Net Banking,Success,Delhi
+T1442,2025-04-04,C146,Amazon,3523.96,Debit Card,Success,Kolkata
+T1443,2025-04-05,C105,Flipkart,542.89,Debit Card,Success,Delhi
+T1444,2025-04-05,C172,Flipkart,4075.13,Credit Card,Success,Kolkata
+T1445,2025-04-05,C139,Amazon,4940.63,UPI,Success,Delhi
+T1446,2025-04-05,C185,Myntra,3182.21,Debit Card,Success,Kolkata
+T1447,2025-04-05,C173,Swiggy,917.99,UPI,Success,Chennai
+T1448,2025-04-06,C183,BigBasket,2881.2,UPI,Failed,Mumbai
+T1449,2025-04-06,C156,Flipkart,2335.03,Credit Card,Success,Mumbai
+T1450,2025-04-07,C100,Amazon,158.47,Net Banking,Success,Mumbai
+T1451,2025-04-07,C196,Flipkart,340.72,Debit Card,Success,Kolkata
+T1452,2025-04-08,C147,Flipkart,709.07,Debit Card,Success,Chennai
+T1453,2025-04-08,C118,Myntra,3272.3,Net Banking,Success,Delhi
+T1454,2025-04-08,C141,Flipkart,1972.49,Net Banking,Success,Mumbai
+T1455,2025-04-08,C136,Myntra,2478.49,Debit Card,Success,Bangalore
+T1456,2025-04-08,C153,Amazon,4947.55,UPI,Success,Delhi
+T1457,2025-04-08,C163,Swiggy,553.67,Net Banking,Success,Mumbai
+T1458,2025-04-08,C172,Swiggy,3721.38,UPI,Success,Kolkata
+T1459,2025-04-08,C173,Swiggy,2780.64,Net Banking,Success,Bangalore
+T1460,2025-04-08,C138,Swiggy,3436.01,Debit Card,Success,Bangalore
+T1461,2025-04-08,C101,Myntra,4116.88,Credit Card,Success,Kolkata
+T1462,2025-04-08,C128,Myntra,109.19,Credit Card,Success,Mumbai
+T1463,2025-04-09,C172,Swiggy,4963.3,Credit Card,Failed,Mumbai
+T1464,2025-04-09,C171,Myntra,830.2,Debit Card,Success,Mumbai
+T1465,2025-04-09,C195,Flipkart,4311.03,Debit Card,Success,Kolkata
+T1466,2025-04-09,C154,Myntra,1670.14,UPI,Success,Bangalore
+T1467,2025-04-10,C116,BigBasket,975.45,UPI,Success,Bangalore
+T1468,2025-04-10,C188,Amazon,881.55,Debit Card,Success,Mumbai
+T1469,2025-04-10,C113,Amazon,2051.74,Debit Card,Success,Mumbai
+T1470,2025-04-10,C197,Myntra,3169.97,UPI,Success,Chennai
+T1471,2025-04-11,C172,Swiggy,1266.63,Net Banking,Success,Delhi
+T1472,2025-04-12,C163,Flipkart,2953.72,Credit Card,Success,Chennai
+T1473,2025-04-12,C188,Myntra,4501.59,Credit Card,Success,Chennai
+T1474,2025-04-12,C131,Flipkart,4125.25,Net Banking,Success,Kolkata
+T1475,2025-04-13,C180,Swiggy,4487.8,Debit Card,Failed,Chennai
+T1476,2025-04-13,C196,Myntra,3424.48,Debit Card,Success,Kolkata
+T1477,2025-04-13,C183,BigBasket,3057.59,Credit Card,Success,Kolkata
+T1478,2025-04-13,C141,Swiggy,2968.39,UPI,Success,Delhi
+T1479,2025-04-13,C184,Amazon,3774.01,UPI,Success,Kolkata
+T1480,2025-04-13,C110,Flipkart,522.04,Debit Card,Success,Mumbai
+T1481,2025-04-13,C113,Flipkart,89.45,UPI,Success,Kolkata
+T1482,2025-04-14,C189,Flipkart,3431.9,Net Banking,Success,Delhi
+T1483,2025-04-14,C192,BigBasket,1593.86,Debit Card,Success,Bangalore
+T1484,2025-04-14,C127,Flipkart,2638.88,Debit Card,Success,Delhi
+T1485,2025-04-14,C182,BigBasket,3663.29,UPI,Success,Kolkata
+T1486,2025-04-14,C129,Flipkart,4085.32,Net Banking,Success,Delhi
+T1487,2025-04-15,C160,BigBasket,2981.41,Credit Card,Success,Bangalore
+T1488,2025-04-15,C134,BigBasket,2011.89,UPI,Success,Kolkata
+T1489,2025-04-15,C196,Flipkart,501.5,Net Banking,Success,Chennai
+T1490,2025-04-15,C184,Amazon,377.27,Net Banking,Success,Mumbai
+T1491,2025-04-15,C170,BigBasket,2577.85,Debit Card,Success,Chennai
+T1492,2025-04-15,C187,Flipkart,551.23,Net Banking,Failed,Chennai
+T1493,2025-04-16,C186,Amazon,2140.45,Net Banking,Success,Mumbai
+T1494,2025-04-16,C108,Amazon,2527.31,UPI,Success,Kolkata
+T1495,2025-04-16,C109,Swiggy,1169.64,Credit Card,Success,Kolkata
+T1496,2025-04-17,C158,Myntra,4908.0,Net Banking,Failed,Delhi
+T1497,2025-04-17,C136,Swiggy,3402.06,Debit Card,Success,Chennai
+T1498,2025-04-17,C185,Flipkart,1672.58,Credit Card,Success,Kolkata
+T1499,2025-04-18,C135,Swiggy,3241.19,Net Banking,Success,Kolkata
+T1500,2025-04-18,C145,BigBasket,203.86,Net Banking,Failed,Chennai
+T1501,2025-04-18,C156,Swiggy,202.76,Net Banking,Success,Bangalore
+T1502,2025-04-18,C176,Swiggy,1134.15,Debit Card,Success,Bangalore
+T1503,2025-04-18,C188,Amazon,2373.98,UPI,Success,Mumbai
+T1504,2025-04-18,C114,Swiggy,4746.06,Debit Card,Success,Mumbai
+T1505,2025-04-18,C131,Flipkart,3063.72,Net Banking,Success,Mumbai
+T1506,2025-04-19,C116,Flipkart,4507.19,Debit Card,Success,Kolkata
+T1507,2025-04-19,C184,Myntra,2900.6,Net Banking,Success,Delhi
+T1508,2025-04-19,C139,BigBasket,3879.1,Credit Card,Success,Kolkata
+T1509,2025-04-19,C142,Myntra,4253.44,UPI,Success,Kolkata
+T1510,2025-04-19,C117,Myntra,2963.52,UPI,Success,Bangalore
+T1511,2025-04-19,C176,Swiggy,2117.01,Credit Card,Success,Delhi
+T1512,2025-04-19,C195,Myntra,4753.76,Net Banking,Success,Chennai
+T1513,2025-04-19,C145,Swiggy,2420.66,UPI,Success,Delhi
+T1514,2025-04-19,C112,Flipkart,3213.59,Credit Card,Success,Kolkata
+T1515,2025-04-20,C173,Amazon,1155.02,UPI,Failed,Bangalore
+T1516,2025-04-20,C157,Flipkart,1893.84,Credit Card,Success,Chennai
+T1517,2025-04-20,C103,Swiggy,1037.32,Credit Card,Success,Chennai
+T1518,2025-04-20,C129,Swiggy,4181.52,UPI,Failed,Mumbai
+T1519,2025-04-20,C192,Myntra,1379.26,Debit Card,Success,Delhi
+T1520,2025-04-21,C165,Swiggy,1986.11,Debit Card,Success,Kolkata
+T1521,2025-04-21,C174,BigBasket,4295.38,Net Banking,Success,Bangalore
+T1522,2025-04-21,C121,Amazon,210.29,Net Banking,Success,Kolkata
+T1523,2025-04-21,C112,Myntra,458.02,Debit Card,Success,Kolkata
+T1524,2025-04-21,C100,BigBasket,1380.38,Net Banking,Success,Chennai
+T1525,2025-04-22,C128,Flipkart,1362.8,Net Banking,Failed,Bangalore
+T1526,2025-04-22,C149,Amazon,2499.69,Credit Card,Success,Delhi
+T1527,2025-04-22,C162,Swiggy,3863.32,Credit Card,Success,Chennai
+T1528,2025-04-22,C103,BigBasket,1691.17,Net Banking,Success,Kolkata
+T1529,2025-04-22,C155,Swiggy,4686.6,Debit Card,Success,Kolkata
+T1530,2025-04-22,C189,BigBasket,4889.6,Net Banking,Success,Delhi
+T1531,2025-04-22,C177,Amazon,1831.59,Debit Card,Success,Bangalore
+T1532,2025-04-23,C111,BigBasket,1053.43,Credit Card,Success,Bangalore
+T1533,2025-04-23,C136,Amazon,1072.77,Debit Card,Success,Kolkata
+T1534,2025-04-23,C197,BigBasket,3556.42,Credit Card,Success,Chennai
+T1535,2025-04-24,C141,BigBasket,913.54,UPI,Failed,Delhi
+T1536,2025-04-24,C198,Myntra,510.48,Debit Card,Success,Delhi
+T1537,2025-04-24,C132,Swiggy,1128.26,Net Banking,Success,Bangalore
+T1538,2025-04-24,C184,Swiggy,2904.43,Debit Card,Success,Mumbai
+T1539,2025-04-24,C114,BigBasket,3576.0,Net Banking,Success,Chennai
+T1540,2025-04-25,C108,Swiggy,2880.26,Net Banking,Success,Bangalore
+T1541,2025-04-25,C152,Amazon,470.27,Credit Card,Success,Mumbai
+T1542,2025-04-25,C161,Amazon,4060.42,UPI,Success,Delhi
+T1543,2025-04-25,C124,Amazon,4575.94,UPI,Success,Bangalore
+T1544,2025-04-26,C126,Flipkart,1492.09,Debit Card,Success,Chennai
+T1545,2025-04-26,C153,Amazon,420.41,UPI,Success,Chennai
+T1546,2025-04-26,C165,Swiggy,4428.53,Debit Card,Failed,Kolkata
+T1547,2025-04-27,C120,Swiggy,2745.36,Debit Card,Success,Bangalore
+T1548,2025-04-27,C112,Amazon,4320.05,Net Banking,Success,Chennai
+T1549,2025-04-27,C187,Amazon,2670.62,Net Banking,Failed,Mumbai
+T1550,2025-04-27,C137,Amazon,3303.65,Credit Card,Success,Mumbai
+T1551,2025-04-27,C103,Amazon,705.91,UPI,Success,Kolkata
+T1552,2025-04-27,C138,Flipkart,4031.47,Debit Card,Success,Mumbai
+T1553,2025-04-28,C123,Swiggy,2754.45,Credit Card,Success,Bangalore
+T1554,2025-04-28,C148,BigBasket,2228.49,Debit Card,Success,Kolkata
+T1555,2025-04-28,C148,Flipkart,1523.66,Credit Card,Success,Delhi
+T1556,2025-04-28,C160,Swiggy,212.86,Credit Card,Success,Kolkata
+T1557,2025-04-28,C189,Myntra,4588.65,Credit Card,Failed,Bangalore
+T1558,2025-04-28,C188,BigBasket,4839.28,UPI,Success,Chennai
+T1559,2025-04-29,C177,Swiggy,564.55,UPI,Success,Mumbai
+T1560,2025-04-29,C156,Flipkart,1167.99,Debit Card,Success,Mumbai
+T1561,2025-04-29,C144,BigBasket,2752.82,Debit Card,Pending,Mumbai
+T1562,2025-04-29,C169,Amazon,863.55,Net Banking,Success,Delhi
+T1563,2025-04-29,C195,Swiggy,2652.78,Net Banking,Success,Delhi
+T1564,2025-04-29,C191,Amazon,1764.8,Credit Card,Success,Kolkata
+T1565,2025-04-30,C143,Flipkart,976.4,Credit Card,Success,Bangalore
+T1566,2025-04-30,C115,BigBasket,4708.66,UPI,Success,Delhi
+T1567,2025-04-30,C122,Myntra,366.17,UPI,Success,Chennai
+T1568,2025-04-30,C135,Amazon,1757.59,Debit Card,Success,Delhi
+T1569,2025-04-30,C143,Myntra,2260.82,UPI,Success,Bangalore
+T1570,2025-04-30,C106,BigBasket,2591.63,Credit Card,Success,Chennai
+T1571,2025-04-30,C175,Myntra,4740.42,Credit Card,Pending,Bangalore
+T1572,2025-05-01,C195,Myntra,757.12,Credit Card,Failed,Mumbai
+T1573,2025-05-01,C119,Flipkart,340.03,Net Banking,Success,Bangalore
+T1574,2025-05-02,C180,Amazon,1363.06,Debit Card,Success,Delhi
+T1575,2025-05-02,C155,Flipkart,4040.74,UPI,Success,Kolkata
+T1576,2025-05-02,C131,Myntra,102.21,Credit Card,Success,Delhi
+T1577,2025-05-02,C141,BigBasket,1605.21,Debit Card,Success,Mumbai
+T1578,2025-05-02,C153,BigBasket,3775.78,Credit Card,Success,Delhi
+T1579,2025-05-02,C145,BigBasket,2523.07,Net Banking,Success,Kolkata
+T1580,2025-05-02,C151,Flipkart,4108.82,Credit Card,Success,Mumbai
+T1581,2025-05-02,C105,Swiggy,1895.4,Credit Card,Success,Mumbai
+T1582,2025-05-03,C113,BigBasket,4160.34,Credit Card,Success,Kolkata
+T1583,2025-05-03,C140,Myntra,3195.73,Debit Card,Success,Chennai
+T1584,2025-05-04,C148,Myntra,3538.44,Debit Card,Success,Delhi
+T1585,2025-05-04,C195,Swiggy,4438.93,UPI,Failed,Chennai
+T1586,2025-05-05,C183,Myntra,4078.0,UPI,Success,Chennai
+T1587,2025-05-05,C122,Flipkart,1627.65,Debit Card,Success,Bangalore
+T1588,2025-05-05,C190,Myntra,1974.74,UPI,Success,Bangalore
+T1589,2025-05-05,C177,Swiggy,261.35,UPI,Success,Delhi
+T1590,2025-05-05,C184,Myntra,1681.23,Net Banking,Success,Mumbai
+T1591,2025-05-05,C119,Swiggy,3690.0,Credit Card,Success,Mumbai
+T1592,2025-05-05,C186,BigBasket,687.52,Credit Card,Success,Chennai
+T1593,2025-05-05,C119,BigBasket,3305.13,Net Banking,Success,Chennai
+T1594,2025-05-06,C187,Myntra,510.82,UPI,Success,Chennai
+T1595,2025-05-06,C172,BigBasket,1067.47,Net Banking,Success,Chennai
+T1596,2025-05-06,C102,BigBasket,4971.7,Net Banking,Success,Bangalore
+T1597,2025-05-06,C156,Amazon,295.7,Net Banking,Success,Bangalore
+T1598,2025-05-06,C160,Flipkart,2446.95,Net Banking,Success,Delhi
+T1599,2025-05-07,C187,BigBasket,2787.8,Net Banking,Success,Bangalore
+T1600,2025-05-07,C114,Myntra,3634.61,Debit Card,Success,Mumbai
+T1601,2025-05-07,C118,Myntra,414.86,Net Banking,Success,Kolkata
+T1602,2025-05-08,C157,BigBasket,4631.64,Credit Card,Success,Kolkata
+T1603,2025-05-09,C180,Amazon,3482.49,Credit Card,Success,Chennai
+T1604,2025-05-09,C175,Swiggy,180.0,UPI,Success,Bangalore
+T1605,2025-05-10,C129,Amazon,3888.79,Credit Card,Success,Delhi
+T1606,2025-05-10,C115,Swiggy,3189.76,Debit Card,Failed,Bangalore
+T1607,2025-05-10,C190,Flipkart,3458.07,Credit Card,Success,Bangalore
+T1608,2025-05-10,C196,Amazon,469.26,Debit Card,Success,Delhi
+T1609,2025-05-10,C155,Swiggy,3519.19,Net Banking,Success,Delhi
+T1610,2025-05-10,C129,Flipkart,3889.38,UPI,Success,Mumbai
+T1611,2025-05-10,C186,Amazon,3010.32,Debit Card,Success,Bangalore
+T1612,2025-05-10,C172,Swiggy,4406.62,Debit Card,Success,Mumbai
+T1613,2025-05-11,C153,Swiggy,4672.93,UPI,Success,Delhi
+T1614,2025-05-11,C138,Amazon,3020.04,Debit Card,Success,Mumbai
+T1615,2025-05-11,C101,Flipkart,1832.61,Debit Card,Success,Delhi
+T1616,2025-05-11,C169,Myntra,2473.73,Net Banking,Success,Mumbai
+T1617,2025-05-11,C154,Flipkart,4942.97,Net Banking,Success,Kolkata
+T1618,2025-05-12,C116,Flipkart,2568.68,Credit Card,Success,Delhi
+T1619,2025-05-12,C114,Myntra,2707.68,Net Banking,Failed,Chennai
+T1620,2025-05-13,C170,Flipkart,1203.34,Net Banking,Success,Kolkata
+T1621,2025-05-13,C106,BigBasket,2220.35,Credit Card,Success,Kolkata
+T1622,2025-05-13,C196,Swiggy,203.42,Credit Card,Success,Mumbai
+T1623,2025-05-14,C155,Flipkart,1228.08,UPI,Success,Bangalore
+T1624,2025-05-14,C103,Amazon,2711.16,Debit Card,Failed,Bangalore
+T1625,2025-05-14,C152,Swiggy,384.29,Net Banking,Success,Kolkata
+T1626,2025-05-14,C147,Swiggy,3518.59,UPI,Success,Bangalore
+T1627,2025-05-16,C159,Amazon,2187.65,UPI,Success,Kolkata
+T1628,2025-05-16,C155,Swiggy,2490.96,Net Banking,Success,Delhi
+T1629,2025-05-16,C175,Swiggy,3535.07,Credit Card,Success,Mumbai
+T1630,2025-05-16,C112,BigBasket,1228.93,UPI,Success,Mumbai
+T1631,2025-05-16,C165,Myntra,3490.04,Debit Card,Success,Delhi
+T1632,2025-05-16,C191,Swiggy,3244.04,Net Banking,Success,Bangalore
+T1633,2025-05-17,C199,Swiggy,1896.61,Debit Card,Success,Kolkata
+T1634,2025-05-17,C123,Myntra,221.51,UPI,Success,Kolkata
+T1635,2025-05-17,C104,Swiggy,4872.42,Debit Card,Success,Mumbai
+T1636,2025-05-17,C140,Amazon,3945.61,Net Banking,Success,Chennai
+T1637,2025-05-18,C174,Amazon,2223.4,Net Banking,Success,Chennai
+T1638,2025-05-18,C189,Myntra,2021.57,Debit Card,Failed,Chennai
+T1639,2025-05-18,C104,Swiggy,247.14,UPI,Success,Delhi
+T1640,2025-05-18,C168,Amazon,1536.31,Credit Card,Success,Bangalore
+T1641,2025-05-18,C114,Myntra,3467.86,Debit Card,Success,Kolkata
+T1642,2025-05-18,C150,Myntra,3559.38,UPI,Success,Bangalore
+T1643,2025-05-18,C173,Swiggy,2932.5,Credit Card,Success,Delhi
+T1644,2025-05-18,C163,Flipkart,813.39,Debit Card,Success,Mumbai
+T1645,2025-05-18,C116,Myntra,2733.58,Credit Card,Success,Kolkata
+T1646,2025-05-19,C123,BigBasket,737.26,Credit Card,Success,Bangalore
+T1647,2025-05-19,C150,Flipkart,956.07,UPI,Success,Bangalore
+T1648,2025-05-19,C192,BigBasket,1810.93,Debit Card,Success,Kolkata
+T1649,2025-05-19,C129,Myntra,963.04,Net Banking,Success,Delhi
+T1650,2025-05-19,C116,Flipkart,4824.94,Net Banking,Success,Mumbai
+T1651,2025-05-19,C159,Myntra,1911.47,Net Banking,Success,Chennai
+T1652,2025-05-19,C191,BigBasket,3252.65,UPI,Success,Mumbai
+T1653,2025-05-19,C179,Amazon,3845.87,Net Banking,Success,Chennai
+T1654,2025-05-20,C171,Myntra,157.91,Net Banking,Success,Chennai
+T1655,2025-05-20,C197,Flipkart,4907.53,Debit Card,Success,Mumbai
+T1656,2025-05-20,C180,Amazon,3428.63,Debit Card,Success,Mumbai
+T1657,2025-05-20,C186,Myntra,1074.37,UPI,Success,Mumbai
+T1658,2025-05-20,C195,Amazon,4812.28,Net Banking,Success,Delhi
+T1659,2025-05-21,C189,Flipkart,2821.25,UPI,Success,Chennai
+T1660,2025-05-21,C114,Amazon,4824.64,Net Banking,Success,Bangalore
+T1661,2025-05-21,C129,Swiggy,4874.05,Credit Card,Success,Mumbai
+T1662,2025-05-21,C129,BigBasket,3925.79,Credit Card,Success,Mumbai
+T1663,2025-05-22,C156,Amazon,2324.93,UPI,Success,Bangalore
+T1664,2025-05-22,C138,Flipkart,3320.33,Credit Card,Failed,Kolkata
+T1665,2025-05-22,C186,Flipkart,2176.73,Debit Card,Success,Delhi
+T1666,2025-05-22,C148,Amazon,4337.09,UPI,Success,Bangalore
+T1667,2025-05-22,C188,Flipkart,4928.17,Net Banking,Failed,Delhi
+T1668,2025-05-22,C113,Amazon,4241.15,UPI,Success,Delhi
+T1669,2025-05-22,C102,Swiggy,476.75,Credit Card,Success,Mumbai
+T1670,2025-05-22,C115,Flipkart,3310.38,Debit Card,Success,Kolkata
+T1671,2025-05-23,C182,Flipkart,990.42,UPI,Failed,Mumbai
+T1672,2025-05-23,C163,BigBasket,3087.54,Debit Card,Success,Chennai
+T1673,2025-05-23,C192,Swiggy,1772.23,Net Banking,Success,Mumbai
+T1674,2025-05-23,C172,Flipkart,3809.95,Credit Card,Success,Delhi
+T1675,2025-05-23,C148,BigBasket,4392.13,Credit Card,Success,Chennai
+T1676,2025-05-24,C124,Flipkart,1828.33,Debit Card,Success,Delhi
+T1677,2025-05-24,C164,Flipkart,869.35,UPI,Success,Delhi
+T1678,2025-05-24,C198,Myntra,4150.3,Net Banking,Failed,Delhi
+T1679,2025-05-24,C189,BigBasket,2485.54,UPI,Failed,Chennai
+T1680,2025-05-24,C136,Flipkart,3577.92,Debit Card,Success,Mumbai
+T1681,2025-05-25,C151,Swiggy,2089.36,UPI,Success,Chennai
+T1682,2025-05-25,C186,Amazon,189.62,Net Banking,Success,Bangalore
+T1683,2025-05-25,C155,Myntra,912.3,Net Banking,Pending,Bangalore
+T1684,2025-05-25,C138,Amazon,1410.52,Debit Card,Success,Bangalore
+T1685,2025-05-25,C187,BigBasket,2276.18,Debit Card,Success,Delhi
+T1686,2025-05-26,C111,BigBasket,2551.92,UPI,Success,Chennai
+T1687,2025-05-26,C144,Swiggy,552.07,Net Banking,Success,Mumbai
+T1688,2025-05-26,C170,BigBasket,4347.18,Debit Card,Success,Delhi
+T1689,2025-05-26,C152,BigBasket,4746.68,Credit Card,Success,Chennai
+T1690,2025-05-26,C126,Myntra,860.97,Debit Card,Success,Delhi
+T1691,2025-05-27,C190,Flipkart,3403.49,UPI,Success,Chennai
+T1692,2025-05-28,C161,BigBasket,4220.6,Net Banking,Success,Delhi
+T1693,2025-05-28,C193,Myntra,2863.48,Credit Card,Success,Mumbai
+T1694,2025-05-28,C134,BigBasket,2028.11,Debit Card,Success,Kolkata
+T1695,2025-05-28,C161,Amazon,741.98,Debit Card,Pending,Kolkata
+T1696,2025-05-28,C141,Flipkart,4229.21,Net Banking,Success,Bangalore
+T1697,2025-05-28,C103,Myntra,391.19,Net Banking,Success,Bangalore
+T1698,2025-05-29,C118,Flipkart,3868.58,Credit Card,Success,Mumbai
+T1699,2025-05-29,C112,Myntra,3439.25,UPI,Success,Bangalore
+T1700,2025-05-29,C179,Flipkart,633.42,UPI,Success,Mumbai
+T1701,2025-05-29,C114,Swiggy,3751.83,Debit Card,Success,Mumbai
+T1702,2025-05-29,C197,BigBasket,695.92,Debit Card,Failed,Bangalore
+T1703,2025-05-30,C188,Swiggy,1495.85,UPI,Failed,Kolkata
+T1704,2025-05-30,C164,Flipkart,3752.99,Net Banking,Success,Bangalore
+T1705,2025-05-30,C139,BigBasket,3930.25,UPI,Success,Chennai
+T1706,2025-05-30,C148,Myntra,969.48,UPI,Success,Chennai
+T1707,2025-05-30,C133,Amazon,1976.33,Credit Card,Success,Kolkata
+T1708,2025-05-30,C187,Myntra,1240.34,UPI,Success,Bangalore
+T1709,2025-05-31,C127,Myntra,1884.99,UPI,Success,Kolkata
+T1710,2025-05-31,C180,Myntra,3955.93,Debit Card,Success,Kolkata
+T1711,2025-05-31,C162,Amazon,1248.0,Net Banking,Success,Chennai
+T1712,2025-06-01,C116,Flipkart,4310.31,Credit Card,Success,Mumbai
+T1713,2025-06-01,C184,BigBasket,1510.77,Credit Card,Success,Chennai
+T1714,2025-06-01,C142,Swiggy,4997.88,Debit Card,Success,Bangalore
+T1715,2025-06-01,C121,Swiggy,1320.46,Net Banking,Success,Bangalore
+T1716,2025-06-02,C197,Swiggy,2107.37,Credit Card,Success,Kolkata
+T1717,2025-06-02,C122,Flipkart,4495.71,UPI,Success,Bangalore
+T1718,2025-06-02,C176,Amazon,196.65,Credit Card,Success,Delhi
+T1719,2025-06-02,C117,Amazon,4775.62,Net Banking,Success,Kolkata
+T1720,2025-06-02,C130,Swiggy,315.38,UPI,Failed,Bangalore
+T1721,2025-06-02,C156,Flipkart,1811.27,Net Banking,Success,Chennai
+T1722,2025-06-02,C114,BigBasket,346.48,UPI,Success,Mumbai
+T1723,2025-06-03,C162,Swiggy,2201.65,Debit Card,Failed,Kolkata
+T1724,2025-06-03,C109,BigBasket,4746.03,Credit Card,Failed,Mumbai
+T1725,2025-06-04,C135,Amazon,882.76,Credit Card,Success,Bangalore
+T1726,2025-06-04,C115,BigBasket,1934.28,Net Banking,Success,Kolkata
+T1727,2025-06-04,C137,Swiggy,3819.29,Credit Card,Success,Bangalore
+T1728,2025-06-04,C179,Amazon,4517.36,Debit Card,Success,Delhi
+T1729,2025-06-05,C176,Amazon,4085.31,UPI,Success,Mumbai
+T1730,2025-06-05,C128,Amazon,2486.52,Credit Card,Success,Bangalore
+T1731,2025-06-05,C100,Amazon,2480.49,Debit Card,Failed,Delhi
+T1732,2025-06-05,C116,Swiggy,195.31,UPI,Success,Mumbai
+T1733,2025-06-05,C169,Flipkart,4935.07,Debit Card,Success,Bangalore
+T1734,2025-06-05,C122,Flipkart,4510.62,Credit Card,Success,Kolkata
+T1735,2025-06-05,C150,Myntra,1579.81,Credit Card,Success,Bangalore
+T1736,2025-06-06,C193,BigBasket,2535.1,Debit Card,Success,Chennai
+T1737,2025-06-06,C193,BigBasket,2423.47,Credit Card,Success,Mumbai
+T1738,2025-06-06,C170,Myntra,4610.31,Credit Card,Success,Chennai
+T1739,2025-06-06,C109,Myntra,1441.37,Net Banking,Success,Delhi
+T1740,2025-06-07,C170,BigBasket,3522.42,Debit Card,Success,Chennai
+T1741,2025-06-07,C167,Flipkart,4432.34,Debit Card,Success,Bangalore
+T1742,2025-06-08,C136,Myntra,3833.48,Debit Card,Success,Chennai
+T1743,2025-06-08,C121,Swiggy,1562.27,Net Banking,Success,Kolkata
+T1744,2025-06-08,C167,Swiggy,1260.53,Credit Card,Success,Mumbai
+T1745,2025-06-08,C190,Myntra,2469.06,Debit Card,Success,Delhi
+T1746,2025-06-09,C182,Swiggy,1584.04,UPI,Success,Delhi
+T1747,2025-06-09,C100,Swiggy,4422.95,Debit Card,Success,Chennai
+T1748,2025-06-09,C196,Amazon,4204.15,UPI,Success,Mumbai
+T1749,2025-06-09,C179,Flipkart,4996.6,Net Banking,Success,Chennai
+T1750,2025-06-10,C173,Flipkart,1956.93,Debit Card,Success,Bangalore
+T1751,2025-06-10,C118,Flipkart,1735.93,UPI,Success,Kolkata
+T1752,2025-06-10,C168,Amazon,1899.27,Credit Card,Success,Delhi
+T1753,2025-06-10,C187,Amazon,1624.39,Net Banking,Success,Delhi
+T1754,2025-06-10,C173,Flipkart,3357.67,Net Banking,Success,Delhi
+T1755,2025-06-11,C182,Amazon,4772.69,Net Banking,Success,Delhi
+T1756,2025-06-11,C139,BigBasket,2557.73,Credit Card,Success,Chennai
+T1757,2025-06-12,C177,BigBasket,1876.9,Net Banking,Success,Kolkata
+T1758,2025-06-12,C158,Amazon,4609.14,Debit Card,Failed,Bangalore
+T1759,2025-06-12,C153,Myntra,4321.5,UPI,Success,Mumbai
+T1760,2025-06-12,C179,Swiggy,1373.26,Net Banking,Failed,Mumbai
+T1761,2025-06-12,C106,Myntra,1409.97,Net Banking,Failed,Kolkata
+T1762,2025-06-12,C135,Amazon,2287.36,Net Banking,Success,Bangalore
+T1763,2025-06-13,C197,Amazon,1969.61,Debit Card,Success,Kolkata
+T1764,2025-06-13,C154,Flipkart,3285.99,UPI,Success,Chennai
+T1765,2025-06-13,C151,Swiggy,3034.46,Net Banking,Success,Kolkata
+T1766,2025-06-13,C128,BigBasket,3337.51,Debit Card,Success,Mumbai
+T1767,2025-06-13,C154,Myntra,1222.02,UPI,Success,Mumbai
+T1768,2025-06-14,C189,Flipkart,2789.31,Credit Card,Success,Delhi
+T1769,2025-06-14,C105,Flipkart,1617.56,Net Banking,Success,Mumbai
+T1770,2025-06-14,C176,BigBasket,2839.37,UPI,Success,Chennai
+T1771,2025-06-14,C181,Amazon,729.32,UPI,Success,Bangalore
+T1772,2025-06-15,C181,Flipkart,680.37,UPI,Success,Mumbai
+T1773,2025-06-15,C172,BigBasket,255.97,Credit Card,Success,Bangalore
+T1774,2025-06-15,C134,Swiggy,624.54,Credit Card,Success,Kolkata
+T1775,2025-06-15,C153,Amazon,1000.06,Debit Card,Failed,Chennai
+T1776,2025-06-15,C140,BigBasket,1443.54,UPI,Success,Kolkata
+T1777,2025-06-16,C180,Myntra,4767.37,UPI,Success,Kolkata
+T1778,2025-06-16,C154,BigBasket,4590.43,UPI,Success,Mumbai
+T1779,2025-06-16,C134,BigBasket,3301.48,Net Banking,Success,Delhi
+T1780,2025-06-16,C175,Swiggy,4912.78,Debit Card,Success,Kolkata
+T1781,2025-06-16,C195,BigBasket,2511.52,Debit Card,Failed,Mumbai
+T1782,2025-06-16,C149,Myntra,2054.98,Net Banking,Success,Kolkata
+T1783,2025-06-17,C144,Myntra,1652.09,Net Banking,Success,Kolkata
+T1784,2025-06-17,C156,Myntra,1554.35,UPI,Success,Delhi
+T1785,2025-06-17,C152,BigBasket,418.02,Credit Card,Success,Bangalore
+T1786,2025-06-17,C169,Flipkart,4045.18,Debit Card,Failed,Bangalore
+T1787,2025-06-17,C164,BigBasket,4810.55,Net Banking,Success,Chennai
+T1788,2025-06-18,C121,Flipkart,3817.23,Debit Card,Success,Chennai
+T1789,2025-06-18,C122,Myntra,2890.87,Debit Card,Success,Bangalore
+T1790,2025-06-18,C179,Amazon,547.3,Debit Card,Success,Kolkata
+T1791,2025-06-18,C176,Flipkart,2256.6,Net Banking,Success,Bangalore
+T1792,2025-06-18,C132,BigBasket,1044.21,Credit Card,Success,Chennai
+T1793,2025-06-19,C158,Swiggy,521.36,Credit Card,Success,Bangalore
+T1794,2025-06-19,C108,Flipkart,2775.91,Debit Card,Success,Mumbai
+T1795,2025-06-19,C118,Amazon,4235.31,Debit Card,Success,Kolkata
+T1796,2025-06-19,C132,Swiggy,1897.34,Credit Card,Success,Chennai
+T1797,2025-06-19,C194,Flipkart,267.99,UPI,Success,Kolkata
+T1798,2025-06-19,C107,Amazon,1055.83,Net Banking,Success,Mumbai
+T1799,2025-06-19,C154,BigBasket,2965.3,UPI,Failed,Chennai
+T1800,2025-06-20,C116,Amazon,1580.99,Net Banking,Success,Delhi
+T1801,2025-06-20,C111,Flipkart,3421.23,Debit Card,Success,Chennai
+T1802,2025-06-20,C155,Flipkart,2672.58,Credit Card,Success,Delhi
+T1803,2025-06-20,C147,Amazon,3099.43,Credit Card,Success,Bangalore
+T1804,2025-06-20,C181,Amazon,1373.35,UPI,Success,Kolkata
+T1805,2025-06-20,C116,Myntra,3290.21,Credit Card,Success,Mumbai
+T1806,2025-06-21,C156,Myntra,2530.19,UPI,Success,Bangalore
+T1807,2025-06-21,C182,Myntra,3856.32,Net Banking,Success,Kolkata
+T1808,2025-06-21,C131,Flipkart,4553.38,Credit Card,Success,Chennai
+T1809,2025-06-21,C103,Myntra,4117.34,Credit Card,Failed,Bangalore
+T1810,2025-06-21,C163,Swiggy,2772.99,Net Banking,Failed,Chennai
+T1811,2025-06-21,C114,Swiggy,3503.25,Net Banking,Success,Mumbai
+T1812,2025-06-21,C182,Amazon,4327.05,Net Banking,Success,Mumbai
+T1813,2025-06-21,C171,Myntra,400.6,Credit Card,Failed,Delhi
+T1814,2025-06-21,C137,Swiggy,3841.3,Net Banking,Failed,Bangalore
+T1815,2025-06-21,C152,Amazon,4121.92,UPI,Success,Kolkata
+T1816,2025-06-22,C143,Myntra,2109.08,Debit Card,Success,Kolkata
+T1817,2025-06-22,C199,BigBasket,2786.68,UPI,Success,Kolkata
+T1818,2025-06-22,C187,Amazon,97.44,Debit Card,Success,Kolkata
+T1819,2025-06-22,C103,BigBasket,431.5,Debit Card,Success,Mumbai
+T1820,2025-06-23,C152,Myntra,3905.9,Debit Card,Success,Chennai
+T1821,2025-06-23,C144,Myntra,125.9,Debit Card,Success,Chennai
+T1822,2025-06-23,C115,Myntra,1651.76,Net Banking,Failed,Delhi
+T1823,2025-06-23,C123,Swiggy,2005.24,Credit Card,Failed,Bangalore
+T1824,2025-06-23,C126,Amazon,3716.26,Debit Card,Success,Chennai
+T1825,2025-06-24,C121,Amazon,2013.68,Credit Card,Success,Bangalore
+T1826,2025-06-24,C197,Flipkart,787.04,Net Banking,Success,Bangalore
+T1827,2025-06-24,C151,Myntra,3112.15,UPI,Success,Bangalore
+T1828,2025-06-24,C122,Flipkart,4666.99,Credit Card,Success,Delhi
+T1829,2025-06-24,C169,Flipkart,456.09,Debit Card,Success,Delhi
+T1830,2025-06-25,C188,Swiggy,349.32,Credit Card,Failed,Mumbai
+T1831,2025-06-25,C150,Swiggy,2100.41,UPI,Success,Delhi
+T1832,2025-06-25,C107,Flipkart,1927.36,Net Banking,Success,Chennai
+T1833,2025-06-25,C145,Swiggy,829.64,Net Banking,Success,Chennai
+T1834,2025-06-26,C180,Swiggy,2452.42,UPI,Success,Delhi
+T1835,2025-06-26,C124,Swiggy,613.74,Net Banking,Success,Delhi
+T1836,2025-06-26,C141,Myntra,3663.37,Credit Card,Success,Mumbai
+T1837,2025-06-26,C109,Swiggy,3132.45,UPI,Success,Delhi
+T1838,2025-06-26,C148,Flipkart,4804.77,Debit Card,Pending,Bangalore
+T1839,2025-06-26,C139,Flipkart,4298.18,Credit Card,Success,Chennai
+T1840,2025-06-27,C142,Flipkart,3445.97,Net Banking,Success,Kolkata
+T1841,2025-06-28,C127,BigBasket,1286.77,UPI,Success,Chennai
+T1842,2025-06-28,C151,BigBasket,4231.99,Debit Card,Success,Chennai
+T1843,2025-06-28,C164,BigBasket,550.11,UPI,Success,Bangalore
+T1844,2025-06-28,C167,BigBasket,3005.01,Debit Card,Success,Delhi
+T1845,2025-06-28,C174,Flipkart,2079.68,UPI,Success,Chennai
+T1846,2025-06-28,C167,BigBasket,2916.76,Net Banking,Success,Bangalore
+T1847,2025-06-28,C181,Flipkart,4240.02,Debit Card,Success,Mumbai
+T1848,2025-06-29,C171,Flipkart,526.75,UPI,Failed,Chennai
+T1849,2025-06-29,C162,Amazon,2839.85,Net Banking,Success,Kolkata
+T1850,2025-06-29,C198,Myntra,510.87,Credit Card,Success,Mumbai
+T1851,2025-06-29,C115,Amazon,3878.63,Credit Card,Success,Chennai
+T1852,2025-06-29,C168,Swiggy,538.11,Credit Card,Success,Bangalore
+T1853,2025-06-30,C196,Myntra,1098.66,Net Banking,Success,Delhi
+T1854,2025-06-30,C115,Myntra,3499.55,UPI,Success,Mumbai
+T1855,2025-06-30,C143,Swiggy,3550.49,Net Banking,Success,Delhi
+T1856,2025-06-30,C169,Flipkart,343.82,Net Banking,Success,Kolkata
+T1857,2025-07-01,C146,BigBasket,1143.43,Net Banking,Success,Kolkata
+T1858,2025-07-01,C120,Swiggy,2033.99,Debit Card,Success,Bangalore
+T1859,2025-07-01,C112,BigBasket,4774.54,Credit Card,Success,Delhi
+T1860,2025-07-02,C146,Flipkart,2981.52,UPI,Success,Chennai
+T1861,2025-07-02,C119,Myntra,1225.86,UPI,Success,Kolkata
+T1862,2025-07-02,C111,Swiggy,2944.3,UPI,Success,Delhi
+T1863,2025-07-03,C161,Myntra,1447.42,Net Banking,Success,Mumbai
+T1864,2025-07-03,C115,Swiggy,2588.44,Net Banking,Success,Bangalore
+T1865,2025-07-03,C109,Flipkart,4443.39,Net Banking,Success,Bangalore
+T1866,2025-07-03,C195,Swiggy,4590.26,Credit Card,Success,Delhi
+T1867,2025-07-03,C107,Flipkart,496.77,Credit Card,Success,Chennai
+T1868,2025-07-03,C137,Flipkart,2472.82,Net Banking,Success,Chennai
+T1869,2025-07-03,C152,Myntra,3105.95,Credit Card,Success,Mumbai
+T1870,2025-07-03,C145,BigBasket,2771.14,Net Banking,Success,Kolkata
+T1871,2025-07-04,C147,Swiggy,3956.99,Credit Card,Failed,Chennai
+T1872,2025-07-04,C186,Flipkart,2795.96,Debit Card,Failed,Mumbai
+T1873,2025-07-04,C129,Flipkart,2271.78,Debit Card,Success,Chennai
+T1874,2025-07-04,C127,Amazon,2622.81,Credit Card,Pending,Chennai
+T1875,2025-07-04,C135,BigBasket,2705.13,UPI,Success,Delhi
+T1876,2025-07-04,C134,Amazon,4000.37,Credit Card,Success,Chennai
+T1877,2025-07-04,C157,Swiggy,827.66,Credit Card,Success,Delhi
+T1878,2025-07-05,C197,Flipkart,905.4,Credit Card,Success,Delhi
+T1879,2025-07-05,C165,Myntra,4918.86,Debit Card,Success,Bangalore
+T1880,2025-07-06,C147,Myntra,2522.93,UPI,Success,Mumbai
+T1881,2025-07-06,C138,Myntra,2303.9,Credit Card,Success,Bangalore
+T1882,2025-07-06,C198,Myntra,171.59,Debit Card,Success,Chennai
+T1883,2025-07-06,C106,Amazon,1995.03,UPI,Success,Mumbai
+T1884,2025-07-06,C137,BigBasket,2467.17,Net Banking,Success,Delhi
+T1885,2025-07-06,C166,Amazon,2059.84,UPI,Success,Bangalore
+T1886,2025-07-07,C136,Swiggy,4030.18,UPI,Pending,Kolkata
+T1887,2025-07-07,C131,Amazon,3739.45,Credit Card,Success,Chennai
+T1888,2025-07-07,C199,Flipkart,385.58,Debit Card,Success,Mumbai
+T1889,2025-07-07,C158,Swiggy,3075.98,Credit Card,Success,Bangalore
+T1890,2025-07-08,C170,Amazon,1698.17,Net Banking,Success,Delhi
+T1891,2025-07-08,C141,Swiggy,1312.82,Debit Card,Success,Kolkata
+T1892,2025-07-08,C188,Amazon,1561.63,UPI,Success,Kolkata
+T1893,2025-07-08,C146,BigBasket,1946.2,Debit Card,Success,Chennai
+T1894,2025-07-08,C154,Myntra,4073.1,Debit Card,Success,Kolkata
+T1895,2025-07-08,C128,Flipkart,3493.21,UPI,Success,Chennai
+T1896,2025-07-08,C156,Swiggy,3161.42,Net Banking,Success,Chennai
+T1897,2025-07-09,C139,Swiggy,3820.4,UPI,Success,Mumbai
+T1898,2025-07-09,C154,Myntra,4688.94,Net Banking,Success,Kolkata
+T1899,2025-07-09,C179,Myntra,2695.4,Credit Card,Success,Chennai
+T1900,2025-07-09,C127,BigBasket,2557.72,UPI,Success,Bangalore
+T1901,2025-07-10,C130,Swiggy,678.1,Debit Card,Success,Chennai
+T1902,2025-07-10,C190,Swiggy,3773.66,Credit Card,Success,Kolkata
+T1903,2025-07-10,C158,BigBasket,710.89,Debit Card,Success,Chennai
+T1904,2025-07-11,C109,BigBasket,854.13,Net Banking,Failed,Delhi
+T1905,2025-07-11,C128,Amazon,1331.16,UPI,Pending,Chennai
+T1906,2025-07-11,C110,BigBasket,2578.58,Net Banking,Success,Bangalore
+T1907,2025-07-11,C196,BigBasket,2670.69,Debit Card,Failed,Delhi
+T1908,2025-07-11,C132,BigBasket,3512.23,Net Banking,Success,Bangalore
+T1909,2025-07-11,C176,BigBasket,2477.66,UPI,Success,Chennai
+T1910,2025-07-11,C108,Flipkart,641.24,Credit Card,Success,Mumbai
+T1911,2025-07-12,C141,Flipkart,2978.87,UPI,Success,Mumbai
+T1912,2025-07-12,C160,Myntra,4659.24,Credit Card,Success,Kolkata
+T1913,2025-07-12,C112,BigBasket,2203.17,UPI,Failed,Mumbai
+T1914,2025-07-12,C156,Amazon,3572.8,Net Banking,Success,Mumbai
+T1915,2025-07-12,C105,Amazon,194.5,Debit Card,Success,Mumbai
+T1916,2025-07-12,C114,Myntra,1892.59,UPI,Success,Delhi
+T1917,2025-07-12,C172,Myntra,1628.44,UPI,Success,Kolkata
+T1918,2025-07-12,C122,Flipkart,556.96,Net Banking,Success,Delhi
+T1919,2025-07-12,C199,Flipkart,1924.63,Debit Card,Failed,Mumbai
+T1920,2025-07-13,C183,Myntra,3572.68,UPI,Success,Mumbai
+T1921,2025-07-13,C177,Swiggy,4982.14,Credit Card,Success,Delhi
+T1922,2025-07-13,C128,Swiggy,4872.9,Credit Card,Success,Delhi
+T1923,2025-07-13,C152,Flipkart,4091.65,UPI,Success,Chennai
+T1924,2025-07-14,C170,Swiggy,4304.57,Credit Card,Pending,Mumbai
+T1925,2025-07-14,C181,Myntra,3501.12,UPI,Success,Chennai
+T1926,2025-07-14,C192,Amazon,772.32,UPI,Success,Bangalore
+T1927,2025-07-14,C192,Swiggy,2536.85,Net Banking,Success,Kolkata
+T1928,2025-07-15,C184,Flipkart,4029.29,UPI,Success,Mumbai
+T1929,2025-07-15,C156,Amazon,889.44,Net Banking,Success,Bangalore
+T1930,2025-07-15,C102,Swiggy,1801.88,Net Banking,Success,Bangalore
+T1931,2025-07-15,C129,Myntra,2521.54,UPI,Success,Delhi
+T1932,2025-07-16,C158,Swiggy,723.82,UPI,Success,Kolkata
+T1933,2025-07-16,C184,BigBasket,4514.61,UPI,Success,Chennai
+T1934,2025-07-16,C185,Amazon,981.76,Credit Card,Success,Bangalore
+T1935,2025-07-16,C176,BigBasket,3711.29,Debit Card,Success,Delhi
+T1936,2025-07-16,C194,Amazon,327.77,Debit Card,Failed,Bangalore
+T1937,2025-07-16,C185,Amazon,1609.29,UPI,Success,Bangalore
+T1938,2025-07-17,C114,Myntra,3350.44,UPI,Pending,Kolkata
+T1939,2025-07-17,C108,Swiggy,742.16,Credit Card,Pending,Bangalore
+T1940,2025-07-17,C177,Amazon,2492.14,Debit Card,Failed,Mumbai
+T1941,2025-07-17,C177,BigBasket,3668.11,Credit Card,Success,Kolkata
+T1942,2025-07-17,C173,Flipkart,2288.4,Debit Card,Success,Mumbai
+T1943,2025-07-17,C171,Swiggy,1543.74,Credit Card,Success,Delhi
+T1944,2025-07-18,C112,BigBasket,96.78,Net Banking,Success,Chennai
+T1945,2025-07-18,C139,Swiggy,3213.56,UPI,Success,Mumbai
+T1946,2025-07-19,C126,BigBasket,1133.1,Credit Card,Success,Kolkata
+T1947,2025-07-19,C167,Flipkart,4523.81,Net Banking,Success,Chennai
+T1948,2025-07-19,C174,Swiggy,1540.6,UPI,Success,Kolkata
+T1949,2025-07-19,C184,Swiggy,4090.61,Credit Card,Success,Bangalore
+T1950,2025-07-19,C132,Myntra,4014.04,Debit Card,Success,Mumbai
+T1951,2025-07-19,C108,Swiggy,1017.34,UPI,Success,Chennai
+T1952,2025-07-20,C175,Myntra,2314.87,UPI,Success,Bangalore
+T1953,2025-07-20,C142,Flipkart,1348.65,UPI,Success,Mumbai
+T1954,2025-07-20,C101,BigBasket,2955.67,Debit Card,Success,Delhi
+T1955,2025-07-20,C160,Swiggy,2180.75,UPI,Success,Kolkata
+T1956,2025-07-20,C192,Myntra,4941.37,Debit Card,Success,Mumbai
+T1957,2025-07-20,C102,Flipkart,4845.28,Credit Card,Success,Chennai
+T1958,2025-07-21,C135,Amazon,4437.75,Credit Card,Success,Mumbai
+T1959,2025-07-21,C185,BigBasket,2989.95,Net Banking,Success,Delhi
+T1960,2025-07-21,C168,Amazon,728.79,Credit Card,Failed,Bangalore
+T1961,2025-07-22,C160,Flipkart,4207.28,Debit Card,Success,Chennai
+T1962,2025-07-22,C107,Myntra,4776.55,UPI,Success,Chennai
+T1963,2025-07-23,C130,Swiggy,2856.09,Net Banking,Success,Mumbai
+T1964,2025-07-23,C186,Flipkart,2087.96,UPI,Success,Delhi
+T1965,2025-07-23,C175,Myntra,1870.05,UPI,Success,Chennai
+T1966,2025-07-23,C137,Myntra,3458.53,Credit Card,Success,Chennai
+T1967,2025-07-23,C105,BigBasket,3263.44,Credit Card,Success,Delhi
+T1968,2025-07-24,C174,Amazon,2440.48,Net Banking,Success,Mumbai
+T1969,2025-07-24,C197,Flipkart,892.02,UPI,Failed,Mumbai
+T1970,2025-07-24,C143,Amazon,55.38,UPI,Failed,Delhi
+T1971,2025-07-24,C198,Flipkart,369.14,Credit Card,Success,Chennai
+T1972,2025-07-24,C134,Flipkart,195.94,Credit Card,Success,Mumbai
+T1973,2025-07-25,C164,Amazon,3649.71,Debit Card,Success,Bangalore
+T1974,2025-07-25,C181,Swiggy,81.57,Net Banking,Success,Mumbai
+T1975,2025-07-25,C150,Amazon,704.27,Net Banking,Success,Kolkata
+T1976,2025-07-26,C133,Myntra,2850.99,Net Banking,Success,Kolkata
+T1977,2025-07-26,C110,Swiggy,489.19,Credit Card,Success,Mumbai
+T1978,2025-07-26,C156,Flipkart,2716.9,Debit Card,Success,Delhi
+T1979,2025-07-26,C175,Myntra,2125.88,Net Banking,Success,Chennai
+T1980,2025-07-26,C141,Amazon,3143.92,Debit Card,Success,Chennai
+T1981,2025-07-26,C150,Flipkart,3969.62,UPI,Success,Mumbai
+T1982,2025-07-26,C106,Amazon,887.87,Net Banking,Success,Mumbai
+T1983,2025-07-26,C124,Amazon,842.67,UPI,Success,Bangalore
+T1984,2025-07-26,C175,Flipkart,1340.83,Net Banking,Success,Mumbai
+T1985,2025-07-26,C158,Amazon,1330.75,Credit Card,Success,Mumbai
+T1986,2025-07-26,C135,Myntra,1347.82,Credit Card,Success,Mumbai
+T1987,2025-07-27,C161,Swiggy,2834.5,Net Banking,Success,Chennai
+T1988,2025-07-27,C114,Amazon,2410.19,Net Banking,Success,Delhi
+T1989,2025-07-27,C111,Swiggy,3667.28,Net Banking,Failed,Mumbai
+T1990,2025-07-28,C151,Amazon,1706.94,Credit Card,Success,Mumbai
+T1991,2025-07-28,C192,Amazon,4491.57,Debit Card,Success,Kolkata
+T1992,2025-07-29,C108,Myntra,792.92,UPI,Success,Delhi
+T1993,2025-07-29,C174,Amazon,3267.6,Debit Card,Success,Delhi
+T1994,2025-07-29,C154,Swiggy,4297.18,Credit Card,Success,Mumbai
+T1995,2025-07-29,C138,Myntra,2655.92,Debit Card,Success,Delhi
+T1996,2025-07-30,C151,Amazon,1988.43,UPI,Success,Kolkata
+T1997,2025-07-30,C180,BigBasket,2197.85,Net Banking,Success,Bangalore
+T1998,2025-07-30,C113,Swiggy,799.3,Debit Card,Pending,Chennai
+T1999,2025-07-31,C142,Myntra,1285.23,Credit Card,Success,Delhi
+T2000,2025-08-01,C125,Swiggy,8600.12,UPI,Success,Kolkata
+T2001,2025-08-01,C110,Amazon,7635.28,Credit Card,Success,Chennai
+T2002,2025-08-01,C138,BigBasket,3770.9,UPI,Failed,Mumbai
+T2003,2025-08-02,C168,BigBasket,4489.8,UPI,Success,Kolkata
+T2004,2025-08-02,C196,Flipkart,8293.55,UPI,Pending,Mumbai
+T2005,2025-08-02,C129,Myntra,9709.91,UPI,Pending,Bangalore
+T2006,2025-08-02,C146,Flipkart,4720.54,UPI,Success,Delhi
+T2007,2025-08-03,C100,BigBasket,9678.35,Debit Card,Success,Bangalore
+T2008,2025-08-03,C128,Flipkart,1975.77,UPI,Success,Mumbai
+T2009,2025-08-03,C180,Myntra,6731.16,Net Banking,Pending,Delhi
+T2010,2025-08-03,C185,Swiggy,3192.43,Debit Card,Success,Chennai
+T2011,2025-08-03,C157,BigBasket,2954.45,UPI,Success,Mumbai
+T2012,2025-08-04,C185,Flipkart,172.89,Credit Card,Success,Mumbai
+T2013,2025-08-04,C180,Swiggy,7829.22,Debit Card,Success,Chennai
+T2014,2025-08-04,C104,Flipkart,1233.85,UPI,Pending,Mumbai
+T2015,2025-08-05,C117,Flipkart,6383.71,Credit Card,Pending,Delhi
+T2016,2025-08-05,C190,Swiggy,405.1,UPI,Success,Bangalore
+T2017,2025-08-05,C164,Myntra,8548.69,UPI,Success,Bangalore
+T2018,2025-08-05,C199,BigBasket,3006.58,UPI,Success,Delhi
+T2019,2025-08-05,C190,Amazon,6676.7,Credit Card,Success,Chennai
+T2020,2025-08-06,C141,Flipkart,324.85,Net Banking,Success,Delhi
+T2021,2025-08-06,C109,Amazon,1696.59,Credit Card,Success,Chennai
+T2022,2025-08-06,C151,Swiggy,4516.95,Net Banking,Success,Kolkata
+T2023,2025-08-06,C100,Swiggy,3681.94,Credit Card,Pending,Delhi
+T2024,2025-08-06,C162,BigBasket,9094.95,UPI,Success,Mumbai
+T2025,2025-08-07,C148,Myntra,7197.21,Credit Card,Pending,Mumbai
+T2026,2025-08-07,C158,Flipkart,9035.76,Net Banking,Success,Mumbai
+T2027,2025-08-07,C131,Swiggy,5834.27,UPI,Success,Chennai
+T2028,2025-08-07,C139,Flipkart,7222.68,Credit Card,Success,Kolkata
+T2029,2025-08-07,C133,Flipkart,6533.48,Debit Card,Success,Mumbai
+T2030,2025-08-08,C107,Flipkart,4990.51,Net Banking,Success,Kolkata
+T2031,2025-08-08,C124,Flipkart,5917.68,Credit Card,Failed,Delhi
+T2032,2025-08-08,C121,Amazon,3534.01,Debit Card,Success,Chennai
+T2033,2025-08-08,C120,BigBasket,4874.8,UPI,Success,Mumbai
+T2034,2025-08-09,C108,Swiggy,9384.48,UPI,Success,Chennai
+T2035,2025-08-09,C180,BigBasket,3382.53,UPI,Success,Bangalore
+T2036,2025-08-09,C197,Myntra,8280.29,Net Banking,Success,Chennai
+T2037,2025-08-10,C186,Amazon,1174.9,Debit Card,Success,Mumbai
+T2038,2025-08-10,C103,Swiggy,7297.25,Credit Card,Success,Mumbai
+T2039,2025-08-10,C194,BigBasket,2379.12,Net Banking,Pending,Delhi
+T2040,2025-08-11,C128,Myntra,8101.69,Credit Card,Pending,Kolkata
+T2041,2025-08-11,C174,Swiggy,5199.07,UPI,Success,Bangalore
+T2042,2025-08-11,C126,Flipkart,544.62,Net Banking,Success,Bangalore
+T2043,2025-08-11,C154,Flipkart,7511.22,Credit Card,Success,Kolkata
+T2044,2025-08-12,C184,Amazon,3227.7,Net Banking,Success,Mumbai
+T2045,2025-08-12,C153,Myntra,1035.22,Debit Card,Success,Mumbai
+T2046,2025-08-12,C142,BigBasket,2485.61,Net Banking,Success,Delhi
+T2047,2025-08-12,C172,Flipkart,1874.76,UPI,Success,Chennai
+T2048,2025-08-12,C178,Flipkart,3172.2,Credit Card,Failed,Mumbai
+T2049,2025-08-13,C187,Amazon,237.97,Net Banking,Success,Kolkata
+T2050,2025-08-13,C189,Flipkart,1306.14,Debit Card,Success,Bangalore
+T2051,2025-08-13,C109,Swiggy,2077.78,Debit Card,Success,Delhi
+T2052,2025-08-13,C167,Flipkart,1397.47,Debit Card,Pending,Chennai
+T2053,2025-08-14,C130,Myntra,3079.39,Net Banking,Pending,Chennai
+T2054,2025-08-14,C193,BigBasket,2935.82,Credit Card,Success,Bangalore
+T2055,2025-08-14,C112,Amazon,6376.35,Credit Card,Success,Delhi
+T2056,2025-08-14,C150,Amazon,9665.7,Net Banking,Failed,Chennai
+T2057,2025-08-14,C161,BigBasket,4727.08,Debit Card,Success,Mumbai
+T2058,2025-08-15,C159,Myntra,7988.49,Credit Card,Success,Kolkata
+T2059,2025-08-15,C166,Swiggy,8690.62,Debit Card,Success,Kolkata
+T2060,2025-08-15,C153,Flipkart,4316.23,UPI,Success,Bangalore
+T2061,2025-08-15,C102,Myntra,2553.61,UPI,Pending,Bangalore
+T2062,2025-08-16,C198,BigBasket,1142.25,Credit Card,Success,Delhi
+T2063,2025-08-16,C106,Flipkart,8264.18,UPI,Success,Kolkata
+T2064,2025-08-16,C116,BigBasket,1738.76,Net Banking,Success,Kolkata
+T2065,2025-08-16,C176,Flipkart,309.37,Debit Card,Success,Delhi
+T2066,2025-08-16,C185,Flipkart,5952.32,Debit Card,Success,Mumbai
+T2067,2025-08-17,C193,BigBasket,8762.55,Debit Card,Success,Chennai
+T2068,2025-08-17,C178,Amazon,2443.77,Net Banking,Success,Mumbai
+T2069,2025-08-17,C122,BigBasket,587.62,UPI,Success,Bangalore
+T2070,2025-08-17,C177,BigBasket,8351.24,Net Banking,Success,Chennai
+T2071,2025-08-17,C147,Swiggy,8451.39,Net Banking,Failed,Kolkata
+T2072,2025-08-18,C141,BigBasket,7816.83,Debit Card,Success,Mumbai
+T2073,2025-08-18,C161,Flipkart,5407.07,UPI,Success,Chennai
+T2074,2025-08-18,C185,Amazon,3912.39,Debit Card,Success,Mumbai
+T2075,2025-08-18,C135,Flipkart,4830.99,Net Banking,Success,Chennai
+T2076,2025-08-18,C162,Myntra,3727.29,Debit Card,Success,Kolkata
+T2077,2025-08-19,C100,Myntra,9493.69,UPI,Failed,Bangalore
+T2078,2025-08-19,C108,Swiggy,5400.8,UPI,Success,Chennai
+T2079,2025-08-19,C169,Myntra,5373.95,Credit Card,Success,Delhi
+T2080,2025-08-20,C119,Swiggy,2103.81,Debit Card,Success,Mumbai
+T2081,2025-08-20,C116,Flipkart,6182.36,Debit Card,Success,Delhi
+T2082,2025-08-20,C171,Flipkart,9365.8,Debit Card,Failed,Delhi
+T2083,2025-08-21,C157,Amazon,7847.98,Debit Card,Success,Bangalore
+T2084,2025-08-21,C101,Flipkart,5941.75,UPI,Success,Chennai
+T2085,2025-08-21,C194,Flipkart,5693.01,Net Banking,Pending,Chennai
+T2086,2025-08-22,C124,Amazon,7662.84,Credit Card,Success,Mumbai
+T2087,2025-08-22,C192,Amazon,9319.24,Credit Card,Success,Delhi
+T2088,2025-08-22,C175,Flipkart,6612.85,Debit Card,Success,Chennai
+T2089,2025-08-22,C131,Swiggy,3403.01,Debit Card,Pending,Bangalore
+T2090,2025-08-23,C158,Swiggy,3212.96,UPI,Success,Bangalore
+T2091,2025-08-23,C137,Flipkart,4435.25,Credit Card,Success,Delhi
+T2092,2025-08-23,C175,Flipkart,9367.79,Debit Card,Pending,Mumbai
+T2093,2025-08-23,C180,Flipkart,9867.65,UPI,Pending,Bangalore
+T2094,2025-08-24,C195,Flipkart,8520.28,Credit Card,Success,Mumbai
+T2095,2025-08-24,C180,Amazon,6892.35,Debit Card,Success,Delhi
+T2096,2025-08-24,C175,BigBasket,3024.05,Credit Card,Success,Chennai
+T2097,2025-08-24,C111,Myntra,9192.57,Debit Card,Success,Mumbai
+T2098,2025-08-24,C173,BigBasket,8804.08,Debit Card,Success,Kolkata
+T2099,2025-08-25,C159,Swiggy,6690.28,Credit Card,Success,Mumbai
+T2100,2025-08-25,C110,Swiggy,387.1,Credit Card,Success,Chennai
+T2101,2025-08-25,C137,BigBasket,2062.22,Credit Card,Failed,Kolkata
+T2102,2025-08-26,C155,Flipkart,153.76,Net Banking,Success,Delhi
+T2103,2025-08-26,C121,BigBasket,2461.67,UPI,Pending,Bangalore
+T2104,2025-08-26,C149,BigBasket,9285.17,Net Banking,Success,Mumbai
+T2105,2025-08-26,C191,BigBasket,497.5,UPI,Success,Kolkata
+T2106,2025-08-27,C187,Amazon,6337.12,Debit Card,Success,Chennai
+T2107,2025-08-27,C120,BigBasket,2011.11,Debit Card,Success,Delhi
+T2108,2025-08-27,C129,Amazon,6154.28,Credit Card,Success,Delhi
+T2109,2025-08-27,C194,Flipkart,8853.04,Net Banking,Success,Chennai
+T2110,2025-08-27,C119,Myntra,1916.98,Net Banking,Failed,Chennai
+T2111,2025-08-28,C163,Swiggy,6400.44,Credit Card,Success,Chennai
+T2112,2025-08-28,C103,BigBasket,3083.29,UPI,Success,Chennai
+T2113,2025-08-28,C105,Swiggy,9411.88,Net Banking,Success,Delhi
+T2114,2025-08-28,C109,Amazon,4794.27,Net Banking,Success,Delhi
+T2115,2025-08-29,C158,Flipkart,4336.24,UPI,Pending,Chennai
+T2116,2025-08-29,C114,BigBasket,4146.95,UPI,Success,Bangalore
+T2117,2025-08-29,C171,Swiggy,456.99,UPI,Success,Chennai
+T2118,2025-08-29,C180,Flipkart,5767.33,Net Banking,Success,Chennai
+T2119,2025-08-29,C129,Amazon,6559.09,Debit Card,Success,Kolkata
+T2120,2025-08-30,C183,Amazon,4371.04,Debit Card,Success,Mumbai
+T2121,2025-08-30,C148,Amazon,7393.39,Debit Card,Failed,Bangalore
+T2122,2025-08-30,C139,Amazon,5250.72,UPI,Success,Mumbai
+T2123,2025-08-30,C123,BigBasket,4992.0,Net Banking,Success,Delhi
+T2124,2025-08-30,C102,BigBasket,650.12,Net Banking,Success,Kolkata
+T2125,2025-08-31,C119,Swiggy,7452.66,UPI,Success,Chennai
+T2126,2025-08-31,C165,Swiggy,3785.39,Credit Card,Success,Kolkata
+T2127,2025-08-31,C188,Swiggy,3712.7,Net Banking,Failed,Delhi
+T2128,2025-08-31,C154,Amazon,3178.52,Credit Card,Pending,Delhi
+T2129,2025-09-01,C146,Myntra,6444.8,UPI,Success,Delhi
+T2130,2025-09-01,C146,Amazon,1721.14,Debit Card,Success,Delhi
+T2131,2025-09-01,C147,BigBasket,5604.1,Net Banking,Failed,Bangalore
+T2132,2025-09-01,C169,Flipkart,4537.63,Credit Card,Success,Kolkata
+T2133,2025-09-01,C185,Swiggy,4394.41,UPI,Success,Chennai
+T2134,2025-09-02,C127,Myntra,542.03,Credit Card,Success,Delhi
+T2135,2025-09-02,C182,Flipkart,5905.81,UPI,Success,Delhi
+T2136,2025-09-02,C130,Myntra,8451.53,Net Banking,Success,Chennai
+T2137,2025-09-03,C168,Swiggy,7652.74,Debit Card,Pending,Delhi
+T2138,2025-09-03,C150,Amazon,3450.72,Credit Card,Pending,Bangalore
+T2139,2025-09-03,C166,Swiggy,8534.95,UPI,Failed,Chennai
+T2140,2025-09-03,C186,Amazon,8517.72,UPI,Success,Kolkata
+T2141,2025-09-04,C166,Amazon,4045.67,Net Banking,Failed,Mumbai
+T2142,2025-09-04,C114,Myntra,3454.67,Net Banking,Success,Kolkata
+T2143,2025-09-04,C181,Swiggy,4537.25,Credit Card,Success,Delhi
+T2144,2025-09-04,C112,Amazon,2852.42,Net Banking,Success,Chennai
+T2145,2025-09-04,C114,Swiggy,6241.54,Credit Card,Success,Bangalore
+T2146,2025-09-05,C169,BigBasket,7234.89,UPI,Success,Bangalore
+T2147,2025-09-05,C145,BigBasket,1229.63,Debit Card,Success,Mumbai
+T2148,2025-09-05,C134,Amazon,6575.61,UPI,Failed,Bangalore
+T2149,2025-09-05,C120,Myntra,7364.16,Credit Card,Success,Mumbai
+T2150,2025-09-05,C142,Flipkart,505.37,Debit Card,Success,Mumbai
+T2151,2025-09-06,C121,BigBasket,9781.38,UPI,Pending,Delhi
+T2152,2025-09-06,C160,Swiggy,5599.07,Net Banking,Success,Kolkata
+T2153,2025-09-06,C147,Amazon,466.01,Credit Card,Success,Bangalore
+T2154,2025-09-06,C178,Myntra,6785.53,Net Banking,Pending,Mumbai
+T2155,2025-09-06,C125,Flipkart,7420.37,Credit Card,Success,Kolkata
+T2156,2025-09-07,C155,Myntra,6256.79,Net Banking,Pending,Bangalore
+T2157,2025-09-07,C174,Amazon,6805.15,Debit Card,Success,Delhi
+T2158,2025-09-07,C109,BigBasket,6748.97,UPI,Success,Kolkata
+T2159,2025-09-08,C183,Swiggy,3059.54,Credit Card,Pending,Chennai
+T2160,2025-09-08,C173,Flipkart,8876.92,UPI,Pending,Mumbai
+T2161,2025-09-08,C130,Swiggy,7204.63,UPI,Success,Chennai
+T2162,2025-09-08,C154,Swiggy,4138.63,UPI,Success,Delhi
+T2163,2025-09-09,C127,BigBasket,7038.72,Debit Card,Success,Chennai
+T2164,2025-09-09,C151,BigBasket,5019.47,UPI,Pending,Delhi
+T2165,2025-09-09,C130,Flipkart,2099.59,Debit Card,Pending,Delhi
+T2166,2025-09-09,C148,Swiggy,3498.6,UPI,Failed,Chennai
+T2167,2025-09-10,C146,Amazon,2916.95,Debit Card,Success,Kolkata
+T2168,2025-09-10,C192,Amazon,9099.74,UPI,Pending,Bangalore
+T2169,2025-09-10,C150,Myntra,6569.05,Debit Card,Success,Bangalore
+T2170,2025-09-10,C103,Myntra,1638.87,UPI,Success,Delhi
+T2171,2025-09-10,C152,Flipkart,7940.55,Debit Card,Success,Mumbai
+T2172,2025-09-11,C102,Amazon,9947.55,Debit Card,Success,Mumbai
+T2173,2025-09-11,C124,BigBasket,7897.14,UPI,Pending,Delhi
+T2174,2025-09-11,C193,Flipkart,6563.93,UPI,Success,Bangalore
+T2175,2025-09-11,C126,Amazon,454.84,Credit Card,Success,Bangalore
+T2176,2025-09-12,C178,Flipkart,748.75,Net Banking,Success,Kolkata
+T2177,2025-09-12,C123,Swiggy,604.51,UPI,Success,Mumbai
+T2178,2025-09-12,C136,Swiggy,7012.08,Net Banking,Pending,Bangalore
+T2179,2025-09-13,C151,Myntra,4224.44,Net Banking,Pending,Delhi
+T2180,2025-09-13,C153,BigBasket,112.21,Net Banking,Success,Chennai
+T2181,2025-09-13,C181,Myntra,4370.14,Debit Card,Success,Mumbai
+T2182,2025-09-14,C113,Myntra,2500.58,UPI,Success,Bangalore
+T2183,2025-09-14,C100,Myntra,3374.28,Net Banking,Failed,Chennai
+T2184,2025-09-14,C178,Amazon,7144.42,UPI,Success,Mumbai
+T2185,2025-09-14,C178,Myntra,9196.35,Net Banking,Pending,Bangalore
+T2186,2025-09-15,C191,Flipkart,1195.23,Debit Card,Success,Mumbai
+T2187,2025-09-15,C130,Amazon,5942.93,Debit Card,Success,Bangalore
+T2188,2025-09-15,C152,BigBasket,6229.28,UPI,Success,Delhi
+T2189,2025-09-16,C139,Myntra,9196.06,UPI,Success,Bangalore
+T2190,2025-09-16,C188,BigBasket,3679.21,Credit Card,Success,Delhi
+T2191,2025-09-16,C193,Amazon,6047.27,Credit Card,Success,Chennai
+T2192,2025-09-16,C153,Swiggy,873.27,UPI,Success,Mumbai
+T2193,2025-09-16,C183,Myntra,1738.33,Net Banking,Success,Bangalore
+T2194,2025-09-17,C186,Swiggy,3239.82,Net Banking,Success,Bangalore
+T2195,2025-09-17,C192,Flipkart,1522.81,Debit Card,Success,Mumbai
+T2196,2025-09-17,C160,Amazon,9918.57,UPI,Success,Delhi
+T2197,2025-09-17,C190,BigBasket,5887.92,UPI,Success,Delhi
+T2198,2025-09-17,C110,BigBasket,5408.38,Net Banking,Success,Mumbai
+T2199,2025-09-18,C199,Amazon,3018.08,Debit Card,Pending,Bangalore
+T2200,2025-09-18,C185,Flipkart,5997.57,Net Banking,Success,Bangalore
+T2201,2025-09-18,C179,BigBasket,6146.62,UPI,Pending,Chennai
+T2202,2025-09-18,C173,Swiggy,7285.12,Debit Card,Success,Kolkata
+T2203,2025-09-18,C146,Swiggy,4250.8,Credit Card,Success,Bangalore
+T2204,2025-09-19,C104,Swiggy,5250.28,UPI,Success,Chennai
+T2205,2025-09-19,C125,BigBasket,4010.57,Net Banking,Success,Mumbai
+T2206,2025-09-19,C106,BigBasket,1866.57,Debit Card,Success,Delhi
+T2207,2025-09-20,C116,Myntra,4751.03,Net Banking,Success,Mumbai
+T2208,2025-09-20,C179,Swiggy,5218.49,UPI,Success,Mumbai
+T2209,2025-09-20,C161,Amazon,5742.34,Credit Card,Success,Mumbai
+T2210,2025-09-20,C155,Swiggy,8001.16,Credit Card,Pending,Delhi
+T2211,2025-09-20,C131,Amazon,329.09,Debit Card,Failed,Bangalore
+T2212,2025-09-21,C157,Swiggy,8886.95,Debit Card,Success,Kolkata
+T2213,2025-09-21,C183,Swiggy,5851.79,UPI,Success,Chennai
+T2214,2025-09-21,C122,BigBasket,4729.64,Net Banking,Success,Delhi
+T2215,2025-09-21,C170,Myntra,1397.98,UPI,Success,Delhi
+T2216,2025-09-22,C162,Flipkart,2511.61,Credit Card,Success,Chennai
+T2217,2025-09-22,C146,Amazon,2853.32,Credit Card,Success,Bangalore
+T2218,2025-09-22,C127,Amazon,4737.32,Debit Card,Success,Delhi
+T2219,2025-09-23,C142,Amazon,9597.39,Net Banking,Success,Mumbai
+T2220,2025-09-23,C196,Flipkart,2599.12,Net Banking,Success,Kolkata
+T2221,2025-09-23,C186,BigBasket,9026.25,Net Banking,Failed,Bangalore
+T2222,2025-09-24,C174,Amazon,1464.16,Net Banking,Pending,Kolkata
+T2223,2025-09-24,C190,Amazon,8473.39,Net Banking,Success,Chennai
+T2224,2025-09-24,C163,Amazon,2607.23,Net Banking,Success,Delhi
+T2225,2025-09-24,C139,Myntra,7377.78,Debit Card,Pending,Bangalore
+T2226,2025-09-25,C185,Amazon,7624.15,Net Banking,Pending,Mumbai
+T2227,2025-09-25,C188,BigBasket,1294.49,Net Banking,Pending,Bangalore
+T2228,2025-09-25,C136,Myntra,8480.14,Debit Card,Pending,Delhi
+T2229,2025-09-25,C135,Amazon,2528.06,Credit Card,Success,Mumbai
+T2230,2025-09-26,C179,Swiggy,5355.42,UPI,Success,Kolkata
+T2231,2025-09-26,C103,Myntra,9406.19,Net Banking,Success,Delhi
+T2232,2025-09-26,C125,Myntra,4957.02,Debit Card,Success,Kolkata
+T2233,2025-09-26,C166,BigBasket,1404.37,UPI,Success,Delhi
+T2234,2025-09-27,C130,Amazon,9536.73,Net Banking,Success,Delhi
+T2235,2025-09-27,C174,Myntra,2606.53,Credit Card,Pending,Delhi
+T2236,2025-09-27,C120,BigBasket,3283.18,Credit Card,Success,Mumbai
+T2237,2025-09-27,C115,Amazon,5365.67,Debit Card,Failed,Delhi
+T2238,2025-09-27,C137,BigBasket,7441.98,UPI,Success,Chennai
+T2239,2025-09-28,C147,Swiggy,596.06,UPI,Pending,Delhi
+T2240,2025-09-28,C160,Swiggy,7533.3,Debit Card,Success,Bangalore
+T2241,2025-09-28,C164,Myntra,4436.1,Credit Card,Success,Mumbai
+T2242,2025-09-28,C142,Amazon,2880.87,Credit Card,Pending,Kolkata
+T2243,2025-09-28,C176,Swiggy,1608.03,Net Banking,Success,Chennai
+T2244,2025-09-29,C120,BigBasket,3259.65,UPI,Success,Mumbai
+T2245,2025-09-29,C186,Swiggy,6036.98,Net Banking,Failed,Chennai
+T2246,2025-09-29,C177,Myntra,1854.63,Net Banking,Success,Mumbai
+T2247,2025-09-29,C171,Flipkart,4551.36,UPI,Success,Bangalore
+T2248,2025-09-30,C154,Amazon,6633.96,Debit Card,Success,Kolkata
+T2249,2025-09-30,C101,Swiggy,7411.26,UPI,Success,Bangalore
+T2250,2025-09-30,C117,Flipkart,5138.45,Debit Card,Failed,Kolkata
+T2251,2025-10-01,C127,Swiggy,3489.39,Debit Card,Success,Chennai
+T2252,2025-10-01,C105,Flipkart,1008.06,UPI,Success,Mumbai
+T2253,2025-10-01,C161,Swiggy,295.69,Credit Card,Success,Kolkata
+T2254,2025-10-01,C156,Swiggy,8620.24,Credit Card,Pending,Kolkata
+T2255,2025-10-02,C138,BigBasket,1472.68,UPI,Success,Kolkata
+T2256,2025-10-02,C124,BigBasket,2104.97,Credit Card,Pending,Chennai
+T2257,2025-10-02,C129,Swiggy,6139.6,Credit Card,Pending,Kolkata
+T2258,2025-10-03,C135,Myntra,9763.67,Debit Card,Pending,Kolkata
+T2259,2025-10-03,C163,Flipkart,4060.61,Debit Card,Success,Bangalore
+T2260,2025-10-03,C170,Amazon,9365.78,Credit Card,Success,Bangalore
+T2261,2025-10-03,C139,Amazon,4949.26,UPI,Success,Mumbai
+T2262,2025-10-04,C103,Amazon,9246.36,Credit Card,Success,Bangalore
+T2263,2025-10-04,C115,Flipkart,7670.21,Debit Card,Success,Delhi
+T2264,2025-10-04,C108,Swiggy,2478.24,UPI,Success,Mumbai
+T2265,2025-10-04,C152,Myntra,5901.02,UPI,Success,Kolkata
+T2266,2025-10-04,C164,Swiggy,8619.64,Credit Card,Success,Kolkata
+T2267,2025-10-05,C104,Myntra,7995.36,Net Banking,Success,Bangalore
+T2268,2025-10-05,C109,Swiggy,1245.47,Net Banking,Failed,Kolkata
+T2269,2025-10-05,C152,Flipkart,1624.24,Net Banking,Success,Chennai
+T2270,2025-10-06,C126,Myntra,789.44,Credit Card,Success,Chennai
+T2271,2025-10-06,C160,Myntra,8860.01,UPI,Success,Chennai
+T2272,2025-10-06,C184,Swiggy,1845.93,Credit Card,Success,Chennai
+T2273,2025-10-06,C190,Myntra,6893.01,Debit Card,Success,Delhi
+T2274,2025-10-06,C154,Flipkart,5212.95,Credit Card,Success,Mumbai
+T2275,2025-10-07,C184,BigBasket,3251.43,UPI,Success,Chennai
+T2276,2025-10-07,C131,Flipkart,6755.42,Credit Card,Success,Kolkata
+T2277,2025-10-07,C100,BigBasket,8230.18,Credit Card,Success,Chennai
+T2278,2025-10-07,C192,Swiggy,8033.76,Net Banking,Success,Chennai
+T2279,2025-10-07,C113,Flipkart,8802.78,Credit Card,Success,Delhi
+T2280,2025-10-08,C166,Myntra,622.79,Net Banking,Success,Delhi
+T2281,2025-10-08,C197,BigBasket,444.9,Credit Card,Success,Mumbai
+T2282,2025-10-08,C165,Myntra,1553.95,Net Banking,Success,Kolkata
+T2283,2025-10-09,C190,Amazon,8210.08,Net Banking,Pending,Delhi
+T2284,2025-10-09,C163,Swiggy,2648.77,UPI,Pending,Mumbai
+T2285,2025-10-09,C166,Swiggy,4700.33,UPI,Pending,Kolkata
+T2286,2025-10-09,C133,Myntra,7539.76,Credit Card,Success,Delhi
+T2287,2025-10-09,C162,Flipkart,1835.93,Net Banking,Success,Bangalore
+T2288,2025-10-10,C154,BigBasket,6570.04,Net Banking,Success,Bangalore
+T2289,2025-10-10,C173,Flipkart,9758.4,Credit Card,Success,Chennai
+T2290,2025-10-10,C118,Swiggy,6595.13,Net Banking,Success,Kolkata
+T2291,2025-10-10,C161,Flipkart,5554.0,Debit Card,Success,Kolkata
+T2292,2025-10-10,C167,Amazon,589.65,Net Banking,Success,Kolkata
+T2293,2025-10-11,C194,Myntra,4244.7,UPI,Success,Mumbai
+T2294,2025-10-11,C183,Amazon,3915.16,Credit Card,Pending,Kolkata
+T2295,2025-10-11,C156,Myntra,5684.54,Debit Card,Success,Mumbai
+T2296,2025-10-11,C170,Flipkart,2201.54,Debit Card,Success,Bangalore
+T2297,2025-10-12,C119,BigBasket,4752.56,Credit Card,Pending,Bangalore
+T2298,2025-10-12,C126,Amazon,2230.26,Net Banking,Success,Chennai
+T2299,2025-10-12,C118,Myntra,2219.51,Debit Card,Success,Chennai
+T2300,2025-10-12,C131,Flipkart,1843.77,UPI,Success,Mumbai
+T2301,2025-10-12,C102,Flipkart,3671.51,UPI,Success,Chennai
+T2302,2025-10-13,C183,Myntra,6143.8,UPI,Success,Kolkata
+T2303,2025-10-13,C104,BigBasket,1088.33,Credit Card,Success,Delhi
+T2304,2025-10-13,C176,Swiggy,1307.49,Net Banking,Success,Bangalore
+T2305,2025-10-13,C159,BigBasket,5308.0,Net Banking,Success,Bangalore
+T2306,2025-10-14,C168,Flipkart,9491.59,UPI,Success,Bangalore
+T2307,2025-10-14,C157,BigBasket,9788.48,Net Banking,Success,Chennai
+T2308,2025-10-14,C151,Myntra,3869.25,Credit Card,Success,Mumbai
+T2309,2025-10-15,C180,Flipkart,3278.75,Net Banking,Success,Delhi
+T2310,2025-10-15,C160,BigBasket,5934.38,Debit Card,Pending,Kolkata
+T2311,2025-10-15,C197,Amazon,6368.18,UPI,Failed,Bangalore
+T2312,2025-10-15,C161,Myntra,3359.7,UPI,Success,Chennai
+T2313,2025-10-16,C145,Myntra,5588.55,Debit Card,Success,Bangalore
+T2314,2025-10-16,C183,Flipkart,1036.93,UPI,Success,Chennai
+T2315,2025-10-16,C175,BigBasket,2223.94,UPI,Pending,Mumbai
+T2316,2025-10-16,C146,Amazon,8285.22,UPI,Failed,Delhi
+T2317,2025-10-17,C159,Swiggy,620.5,Debit Card,Success,Bangalore
+T2318,2025-10-17,C159,BigBasket,5831.88,Credit Card,Success,Delhi
+T2319,2025-10-17,C126,Swiggy,5670.41,Net Banking,Success,Delhi
+T2320,2025-10-17,C120,BigBasket,5014.53,Net Banking,Pending,Chennai
+T2321,2025-10-18,C107,BigBasket,8799.76,UPI,Success,Bangalore
+T2322,2025-10-18,C117,Flipkart,1689.82,UPI,Success,Delhi
+T2323,2025-10-18,C151,Myntra,9657.62,Debit Card,Failed,Mumbai
+T2324,2025-10-18,C139,BigBasket,5983.3,Net Banking,Success,Chennai
+T2325,2025-10-19,C184,Flipkart,8128.53,Debit Card,Success,Chennai
+T2326,2025-10-19,C114,BigBasket,6111.39,Credit Card,Success,Chennai
+T2327,2025-10-19,C138,Amazon,1272.15,Credit Card,Success,Mumbai
+T2328,2025-10-19,C135,Myntra,3107.59,Debit Card,Success,Bangalore
+T2329,2025-10-20,C177,Amazon,6932.26,UPI,Success,Mumbai
+T2330,2025-10-20,C149,Flipkart,6225.28,UPI,Success,Chennai
+T2331,2025-10-20,C145,BigBasket,2221.83,Debit Card,Success,Chennai
+T2332,2025-10-20,C127,Amazon,1058.42,UPI,Failed,Delhi
+T2333,2025-10-20,C168,Myntra,9746.73,Credit Card,Success,Chennai
+T2334,2025-10-21,C154,BigBasket,6378.92,UPI,Success,Chennai
+T2335,2025-10-21,C170,Flipkart,5392.55,UPI,Failed,Bangalore
+T2336,2025-10-21,C149,Flipkart,7087.39,Debit Card,Failed,Kolkata
+T2337,2025-10-21,C136,Flipkart,9365.15,Credit Card,Pending,Bangalore
+T2338,2025-10-22,C199,Flipkart,1642.0,Credit Card,Success,Delhi
+T2339,2025-10-22,C116,BigBasket,4032.61,Debit Card,Success,Bangalore
+T2340,2025-10-22,C135,Flipkart,3175.48,Credit Card,Success,Chennai
+T2341,2025-10-23,C118,BigBasket,1033.43,Debit Card,Pending,Bangalore
+T2342,2025-10-23,C163,BigBasket,9761.39,Debit Card,Failed,Bangalore
+T2343,2025-10-23,C133,Flipkart,7978.31,UPI,Success,Chennai
+T2344,2025-10-24,C172,Myntra,7077.9,Credit Card,Success,Chennai
+T2345,2025-10-24,C176,BigBasket,3679.83,UPI,Pending,Delhi
+T2346,2025-10-24,C130,Swiggy,7820.71,Net Banking,Success,Delhi
+T2347,2025-10-24,C126,BigBasket,448.24,Debit Card,Success,Bangalore
+T2348,2025-10-24,C131,Myntra,2265.17,Credit Card,Pending,Mumbai
+T2349,2025-10-25,C179,BigBasket,2439.97,Debit Card,Success,Delhi
+T2350,2025-10-25,C126,Flipkart,2031.73,Net Banking,Failed,Chennai
+T2351,2025-10-25,C113,Amazon,6297.3,Credit Card,Success,Kolkata
+T2352,2025-10-25,C102,Swiggy,8654.95,Debit Card,Success,Bangalore
+T2353,2025-10-25,C184,Flipkart,2336.7,UPI,Failed,Chennai
+T2354,2025-10-26,C128,Myntra,5450.72,Credit Card,Success,Mumbai
+T2355,2025-10-26,C141,Flipkart,6761.25,Debit Card,Success,Bangalore
+T2356,2025-10-26,C132,Swiggy,1771.84,Debit Card,Failed,Mumbai
+T2357,2025-10-26,C127,BigBasket,5026.71,Net Banking,Success,Delhi
+T2358,2025-10-26,C187,BigBasket,9948.67,UPI,Pending,Chennai
+T2359,2025-10-27,C147,Amazon,761.57,Debit Card,Success,Chennai
+T2360,2025-10-27,C167,Swiggy,603.25,Debit Card,Pending,Bangalore
+T2361,2025-10-27,C151,BigBasket,4808.06,Debit Card,Success,Delhi
+T2362,2025-10-27,C167,Swiggy,7839.39,Credit Card,Pending,Chennai
+T2363,2025-10-28,C139,Swiggy,3541.97,Debit Card,Success,Mumbai
+T2364,2025-10-28,C124,BigBasket,3772.03,Credit Card,Success,Mumbai
+T2365,2025-10-28,C191,Myntra,7392.07,Debit Card,Success,Chennai
+T2366,2025-10-29,C112,Swiggy,1398.44,UPI,Pending,Delhi
+T2367,2025-10-29,C184,Swiggy,8957.41,Debit Card,Pending,Kolkata
+T2368,2025-10-29,C110,BigBasket,1628.79,UPI,Pending,Delhi
+T2369,2025-10-30,C177,Flipkart,7629.41,Credit Card,Pending,Bangalore
+T2370,2025-10-30,C119,Swiggy,4836.21,UPI,Success,Kolkata
+T2371,2025-10-30,C158,Myntra,1360.03,UPI,Success,Bangalore
+T2372,2025-10-31,C137,Flipkart,4863.12,Net Banking,Success,Mumbai
+T2373,2025-10-31,C159,BigBasket,4537.58,UPI,Success,Bangalore
+T2374,2025-10-31,C162,Myntra,1845.92,Net Banking,Success,Chennai
+T2375,2025-10-31,C167,Myntra,7542.63,Net Banking,Success,Kolkata
+T2376,2025-10-31,C170,Flipkart,4444.33,Debit Card,Success,Kolkata
+T2377,2025-11-01,C192,Amazon,9307.03,Credit Card,Success,Mumbai
+T2378,2025-11-01,C134,Flipkart,9988.41,Credit Card,Success,Chennai
+T2379,2025-11-01,C196,BigBasket,7935.37,Credit Card,Success,Mumbai
+T2380,2025-11-01,C130,Swiggy,4824.29,Net Banking,Success,Chennai
+T2381,2025-11-01,C168,Amazon,5566.41,Debit Card,Success,Bangalore
+T2382,2025-11-02,C167,Myntra,7950.75,Net Banking,Failed,Bangalore
+T2383,2025-11-02,C149,BigBasket,8910.0,Net Banking,Success,Kolkata
+T2384,2025-11-02,C150,Myntra,6102.36,Debit Card,Success,Bangalore
+T2385,2025-11-03,C190,Swiggy,1781.02,UPI,Success,Mumbai
+T2386,2025-11-03,C199,Swiggy,4088.51,Credit Card,Success,Delhi
+T2387,2025-11-03,C100,Swiggy,1837.08,Net Banking,Success,Bangalore
+T2388,2025-11-03,C113,BigBasket,1486.55,Credit Card,Success,Bangalore
+T2389,2025-11-03,C191,Amazon,2834.45,Net Banking,Failed,Chennai
+T2390,2025-11-04,C142,Amazon,4381.9,Debit Card,Pending,Kolkata
+T2391,2025-11-04,C188,Swiggy,3845.35,Debit Card,Success,Bangalore
+T2392,2025-11-04,C124,Flipkart,5754.56,UPI,Success,Bangalore
+T2393,2025-11-05,C131,BigBasket,8118.41,Debit Card,Success,Delhi
+T2394,2025-11-05,C173,Myntra,3778.28,Debit Card,Success,Delhi
+T2395,2025-11-05,C118,Amazon,4846.23,UPI,Success,Chennai
+T2396,2025-11-06,C161,Swiggy,9831.57,Net Banking,Pending,Chennai
+T2397,2025-11-06,C103,BigBasket,2534.17,Credit Card,Success,Mumbai
+T2398,2025-11-06,C148,Flipkart,4735.49,Net Banking,Success,Kolkata
+T2399,2025-11-06,C168,Amazon,2965.35,Net Banking,Failed,Mumbai
+T2400,2025-11-07,C157,Swiggy,2813.93,UPI,Success,Kolkata
+T2401,2025-11-07,C189,Flipkart,4080.27,Credit Card,Success,Chennai
+T2402,2025-11-07,C198,Swiggy,447.66,UPI,Success,Mumbai
+T2403,2025-11-07,C114,Amazon,2188.25,Credit Card,Failed,Mumbai
+T2404,2025-11-08,C103,BigBasket,2353.85,Debit Card,Success,Delhi
+T2405,2025-11-08,C163,Myntra,6227.27,Debit Card,Success,Mumbai
+T2406,2025-11-08,C138,Swiggy,9391.26,Net Banking,Success,Mumbai
+T2407,2025-11-08,C199,BigBasket,5321.83,Credit Card,Success,Mumbai
+T2408,2025-11-08,C156,Swiggy,2949.76,UPI,Success,Delhi
+T2409,2025-11-09,C187,Swiggy,5868.18,Debit Card,Success,Bangalore
+T2410,2025-11-09,C107,BigBasket,2542.58,Credit Card,Success,Kolkata
+T2411,2025-11-09,C124,Myntra,1966.45,Debit Card,Success,Chennai
+T2412,2025-11-10,C142,Swiggy,9186.81,Net Banking,Success,Bangalore
+T2413,2025-11-10,C106,Swiggy,4791.93,Net Banking,Success,Bangalore
+T2414,2025-11-10,C112,Amazon,8767.84,Net Banking,Success,Kolkata
+T2415,2025-11-10,C188,Myntra,9801.79,UPI,Success,Bangalore
+T2416,2025-11-10,C103,Swiggy,3434.88,Net Banking,Success,Mumbai
+T2417,2025-11-11,C165,BigBasket,2279.56,Net Banking,Success,Kolkata
+T2418,2025-11-11,C117,Swiggy,646.58,UPI,Success,Bangalore
+T2419,2025-11-11,C102,Swiggy,4024.72,Net Banking,Failed,Bangalore
+T2420,2025-11-11,C199,Myntra,2650.36,Debit Card,Success,Kolkata
+T2421,2025-11-11,C150,Swiggy,2237.66,Credit Card,Pending,Chennai
+T2422,2025-11-12,C160,Myntra,2384.39,UPI,Failed,Delhi
+T2423,2025-11-12,C143,Swiggy,6392.05,UPI,Success,Mumbai
+T2424,2025-11-12,C159,Amazon,4550.37,Net Banking,Success,Mumbai
+T2425,2025-11-12,C111,BigBasket,8136.35,Net Banking,Pending,Kolkata
+T2426,2025-11-12,C138,Flipkart,9726.23,Net Banking,Failed,Bangalore
+T2427,2025-11-13,C162,BigBasket,2196.54,Net Banking,Success,Delhi
+T2428,2025-11-13,C138,Myntra,9899.25,Net Banking,Success,Delhi
+T2429,2025-11-13,C189,Amazon,5844.38,Credit Card,Success,Delhi
+T2430,2025-11-13,C114,Amazon,6420.83,Credit Card,Success,Bangalore
+T2431,2025-11-13,C167,Amazon,3526.03,UPI,Success,Delhi
+T2432,2025-11-14,C195,Swiggy,2680.97,UPI,Success,Delhi
+T2433,2025-11-14,C160,BigBasket,3368.99,Credit Card,Success,Mumbai
+T2434,2025-11-14,C196,Flipkart,7673.74,Net Banking,Success,Kolkata
+T2435,2025-11-15,C100,Swiggy,3020.69,Credit Card,Pending,Kolkata
+T2436,2025-11-15,C152,Myntra,6256.43,Debit Card,Success,Delhi
+T2437,2025-11-15,C133,BigBasket,6966.05,Net Banking,Success,Chennai
+T2438,2025-11-15,C100,Swiggy,4523.7,Net Banking,Success,Chennai
+T2439,2025-11-16,C154,Myntra,4465.53,Credit Card,Success,Mumbai
+T2440,2025-11-16,C198,BigBasket,5503.4,Net Banking,Success,Mumbai
+T2441,2025-11-16,C163,Amazon,6235.22,Debit Card,Success,Bangalore
+T2442,2025-11-17,C177,Swiggy,7401.4,Debit Card,Success,Chennai
+T2443,2025-11-17,C123,Swiggy,9224.68,UPI,Success,Chennai
+T2444,2025-11-17,C145,BigBasket,4560.71,Credit Card,Success,Chennai
+T2445,2025-11-17,C164,Flipkart,105.62,Net Banking,Success,Kolkata
+T2446,2025-11-17,C140,Amazon,418.28,Debit Card,Success,Bangalore
+T2447,2025-11-18,C159,BigBasket,1756.91,UPI,Pending,Mumbai
+T2448,2025-11-18,C173,Swiggy,4181.36,UPI,Success,Mumbai
+T2449,2025-11-18,C103,BigBasket,5052.08,Net Banking,Success,Mumbai
+T2450,2025-11-19,C154,BigBasket,2940.23,Net Banking,Success,Mumbai
+T2451,2025-11-19,C113,Swiggy,9935.87,Debit Card,Failed,Delhi
+T2452,2025-11-19,C177,Myntra,8613.71,Debit Card,Failed,Kolkata
+T2453,2025-11-19,C131,Myntra,8345.09,Debit Card,Success,Bangalore
+T2454,2025-11-20,C103,BigBasket,9851.96,Credit Card,Success,Bangalore
+T2455,2025-11-20,C148,Myntra,3276.42,Debit Card,Success,Chennai
+T2456,2025-11-20,C119,Amazon,6403.04,UPI,Success,Chennai
+T2457,2025-11-20,C157,Myntra,3373.7,Debit Card,Pending,Delhi
+T2458,2025-11-21,C139,BigBasket,2355.89,UPI,Success,Bangalore
+T2459,2025-11-21,C190,Flipkart,3231.98,Net Banking,Success,Kolkata
+T2460,2025-11-21,C169,BigBasket,742.97,UPI,Success,Bangalore
+T2461,2025-11-21,C171,BigBasket,8503.04,Net Banking,Success,Chennai
+T2462,2025-11-22,C132,Amazon,4484.23,UPI,Success,Delhi
+T2463,2025-11-22,C133,BigBasket,209.07,Debit Card,Failed,Delhi
+T2464,2025-11-22,C162,Amazon,1585.39,Credit Card,Pending,Kolkata
+T2465,2025-11-22,C137,Swiggy,6034.33,Credit Card,Success,Bangalore
+T2466,2025-11-23,C186,BigBasket,3660.7,UPI,Success,Mumbai
+T2467,2025-11-23,C178,Flipkart,7142.95,UPI,Success,Kolkata
+T2468,2025-11-23,C197,Amazon,6143.0,Debit Card,Pending,Chennai
+T2469,2025-11-23,C191,Myntra,1117.7,Debit Card,Success,Mumbai
+T2470,2025-11-24,C109,Myntra,521.26,Credit Card,Pending,Kolkata
+T2471,2025-11-24,C156,Amazon,1849.0,Net Banking,Failed,Bangalore
+T2472,2025-11-24,C197,Myntra,9302.77,Debit Card,Failed,Delhi
+T2473,2025-11-24,C123,BigBasket,219.31,Credit Card,Failed,Mumbai
+T2474,2025-11-25,C155,Myntra,5548.2,Credit Card,Success,Delhi
+T2475,2025-11-25,C198,Flipkart,6185.89,Debit Card,Success,Mumbai
+T2476,2025-11-25,C122,Amazon,7423.72,Net Banking,Pending,Mumbai
+T2477,2025-11-26,C127,BigBasket,4777.44,Debit Card,Success,Chennai
+T2478,2025-11-26,C147,BigBasket,7357.93,Net Banking,Success,Kolkata
+T2479,2025-11-26,C128,Myntra,4692.83,Debit Card,Success,Bangalore
+T2480,2025-11-26,C110,Myntra,8609.66,Debit Card,Success,Kolkata
+T2481,2025-11-26,C107,Myntra,6224.74,UPI,Success,Bangalore
+T2482,2025-11-27,C109,Swiggy,1590.92,Credit Card,Success,Mumbai
+T2483,2025-11-27,C124,BigBasket,805.32,UPI,Success,Mumbai
+T2484,2025-11-27,C146,Flipkart,3416.96,UPI,Success,Mumbai
+T2485,2025-11-28,C193,BigBasket,4519.26,Credit Card,Success,Bangalore
+T2486,2025-11-28,C127,Flipkart,8862.42,Debit Card,Success,Chennai
+T2487,2025-11-28,C158,Flipkart,6906.59,Net Banking,Success,Delhi
+T2488,2025-11-28,C176,Flipkart,4466.67,Debit Card,Success,Chennai
+T2489,2025-11-29,C158,Amazon,6182.42,Net Banking,Success,Kolkata
+T2490,2025-11-29,C169,Swiggy,236.4,Net Banking,Success,Kolkata
+T2491,2025-11-29,C176,Myntra,8122.0,UPI,Success,Bangalore
+T2492,2025-11-30,C131,Amazon,316.13,Debit Card,Success,Chennai
+T2493,2025-11-30,C139,Amazon,1092.85,Net Banking,Failed,Mumbai
+T2494,2025-11-30,C141,Flipkart,6053.59,Net Banking,Success,Mumbai
+T2495,2025-11-30,C140,Swiggy,6360.32,UPI,Failed,Bangalore
+T2496,2025-12-01,C178,Myntra,5515.18,UPI,Success,Mumbai
+T2497,2025-12-01,C162,Flipkart,260.68,Credit Card,Success,Delhi
+T2498,2025-12-01,C198,Amazon,4850.01,UPI,Failed,Kolkata
+T2499,2025-12-01,C180,Flipkart,612.04,Net Banking,Failed,Bangalore
+T2500,2025-12-01,C113,Swiggy,997.95,Debit Card,Success,Delhi
+T2501,2025-12-02,C161,Amazon,9714.24,Credit Card,Success,Kolkata
+T2502,2025-12-02,C175,BigBasket,4537.7,Net Banking,Success,Kolkata
+T2503,2025-12-02,C102,Myntra,5354.16,Credit Card,Success,Bangalore
+T2504,2025-12-02,C129,Myntra,407.59,UPI,Success,Kolkata
+T2505,2025-12-02,C167,Swiggy,1895.08,Debit Card,Success,Mumbai
+T2506,2025-12-03,C106,Amazon,7195.84,UPI,Success,Mumbai
+T2507,2025-12-03,C170,Flipkart,5762.31,Credit Card,Success,Delhi
+T2508,2025-12-03,C155,Amazon,485.9,UPI,Success,Chennai
+T2509,2025-12-03,C138,BigBasket,7496.4,Net Banking,Success,Kolkata
+T2510,2025-12-04,C155,BigBasket,6104.67,Net Banking,Success,Mumbai
+T2511,2025-12-04,C100,BigBasket,3481.23,Debit Card,Success,Delhi
+T2512,2025-12-04,C165,Amazon,1861.33,UPI,Success,Mumbai
+T2513,2025-12-04,C144,BigBasket,2719.29,UPI,Success,Delhi
+T2514,2025-12-04,C146,Myntra,2811.67,Credit Card,Success,Delhi
+T2515,2025-12-05,C118,BigBasket,3913.16,UPI,Success,Kolkata
+T2516,2025-12-05,C141,Myntra,349.53,Net Banking,Success,Kolkata
+T2517,2025-12-05,C146,Amazon,9292.41,Credit Card,Success,Mumbai
+T2518,2025-12-06,C126,Myntra,7762.0,Net Banking,Success,Mumbai
+T2519,2025-12-06,C180,BigBasket,4400.06,Net Banking,Success,Mumbai
+T2520,2025-12-06,C140,Myntra,9299.5,UPI,Failed,Delhi
+T2521,2025-12-06,C143,Swiggy,1023.38,UPI,Success,Mumbai
+T2522,2025-12-07,C125,Swiggy,6063.86,Credit Card,Success,Kolkata
+T2523,2025-12-07,C110,Swiggy,4200.36,UPI,Success,Mumbai
+T2524,2025-12-07,C143,Amazon,3988.08,UPI,Success,Delhi
+T2525,2025-12-07,C179,Flipkart,8948.06,UPI,Pending,Mumbai
+T2526,2025-12-07,C141,Swiggy,4235.66,Debit Card,Pending,Kolkata
+T2527,2025-12-08,C178,Flipkart,3584.11,Debit Card,Success,Chennai
+T2528,2025-12-08,C108,BigBasket,2641.55,Debit Card,Success,Bangalore
+T2529,2025-12-08,C151,BigBasket,8397.55,Net Banking,Pending,Delhi
+T2530,2025-12-08,C190,Flipkart,8200.45,UPI,Success,Chennai
+T2531,2025-12-09,C147,BigBasket,5682.24,Net Banking,Pending,Kolkata
+T2532,2025-12-09,C199,Myntra,8177.42,Debit Card,Success,Chennai
+T2533,2025-12-09,C123,Myntra,6662.95,UPI,Success,Kolkata
+T2534,2025-12-10,C113,BigBasket,1941.15,UPI,Success,Kolkata
+T2535,2025-12-10,C162,Swiggy,4482.29,UPI,Pending,Delhi
+T2536,2025-12-10,C175,BigBasket,4607.99,UPI,Success,Bangalore
+T2537,2025-12-10,C125,BigBasket,968.82,Credit Card,Failed,Delhi
+T2538,2025-12-10,C169,BigBasket,3215.7,UPI,Success,Kolkata
+T2539,2025-12-11,C153,Myntra,8993.92,Net Banking,Success,Chennai
+T2540,2025-12-11,C129,Swiggy,483.64,Net Banking,Success,Delhi
+T2541,2025-12-11,C162,Amazon,1030.81,Debit Card,Failed,Bangalore
+T2542,2025-12-11,C150,Amazon,1451.06,Credit Card,Success,Bangalore
+T2543,2025-12-11,C170,BigBasket,3039.0,Debit Card,Success,Chennai
+T2544,2025-12-12,C163,Myntra,3920.62,Net Banking,Success,Delhi
+T2545,2025-12-12,C186,Swiggy,3942.72,Net Banking,Success,Kolkata
+T2546,2025-12-12,C154,Swiggy,3850.79,UPI,Failed,Chennai
+T2547,2025-12-12,C182,Amazon,9107.0,Credit Card,Success,Mumbai
+T2548,2025-12-13,C195,BigBasket,9868.45,Debit Card,Pending,Delhi
+T2549,2025-12-13,C110,Amazon,1352.98,Debit Card,Success,Delhi
+T2550,2025-12-13,C187,Flipkart,8706.68,Debit Card,Success,Bangalore
+T2551,2025-12-13,C194,Amazon,8440.3,Credit Card,Success,Delhi
+T2552,2025-12-13,C104,Flipkart,2241.07,Debit Card,Success,Mumbai
+T2553,2025-12-14,C108,Amazon,1962.23,Credit Card,Success,Kolkata
+T2554,2025-12-14,C186,Myntra,1026.47,UPI,Success,Bangalore
+T2555,2025-12-14,C130,Flipkart,2993.88,Net Banking,Success,Bangalore
+T2556,2025-12-14,C171,Swiggy,3145.52,Debit Card,Success,Kolkata
+T2557,2025-12-15,C175,Swiggy,148.09,Net Banking,Success,Bangalore
+T2558,2025-12-15,C101,Myntra,4769.24,Credit Card,Success,Bangalore
+T2559,2025-12-15,C197,Flipkart,5264.97,UPI,Success,Kolkata
+T2560,2025-12-16,C114,BigBasket,9950.59,Credit Card,Success,Delhi
+T2561,2025-12-16,C142,Flipkart,3585.99,Net Banking,Success,Kolkata
+T2562,2025-12-16,C159,Swiggy,5013.26,Debit Card,Pending,Bangalore
+T2563,2025-12-16,C174,Flipkart,4092.41,Debit Card,Success,Delhi
+T2564,2025-12-17,C121,Myntra,2061.37,Net Banking,Success,Chennai
+T2565,2025-12-17,C151,BigBasket,3829.68,Debit Card,Success,Kolkata
+T2566,2025-12-17,C189,Swiggy,6928.64,UPI,Success,Bangalore
+T2567,2025-12-17,C170,Amazon,784.49,Debit Card,Pending,Mumbai
+T2568,2025-12-18,C123,Swiggy,2951.79,Net Banking,Pending,Mumbai
+T2569,2025-12-18,C154,BigBasket,8371.75,Net Banking,Success,Delhi
+T2570,2025-12-18,C196,Flipkart,8550.94,Debit Card,Pending,Kolkata
+T2571,2025-12-19,C195,Myntra,4940.09,Credit Card,Success,Bangalore
+T2572,2025-12-19,C121,Amazon,8323.97,Net Banking,Success,Kolkata
+T2573,2025-12-19,C180,Flipkart,6685.62,Credit Card,Success,Mumbai
+T2574,2025-12-19,C113,BigBasket,3729.15,UPI,Success,Kolkata
+T2575,2025-12-19,C145,Amazon,3124.26,UPI,Success,Bangalore
+T2576,2025-12-20,C178,Flipkart,8733.83,Net Banking,Success,Mumbai
+T2577,2025-12-20,C176,Swiggy,8491.9,Net Banking,Success,Kolkata
+T2578,2025-12-20,C122,Flipkart,567.78,UPI,Failed,Mumbai
+T2579,2025-12-20,C113,Flipkart,7505.9,Net Banking,Success,Delhi
+T2580,2025-12-21,C146,BigBasket,208.25,UPI,Pending,Delhi
+T2581,2025-12-21,C154,BigBasket,1975.96,UPI,Success,Kolkata
+T2582,2025-12-21,C190,Swiggy,7943.48,Debit Card,Success,Chennai
+T2583,2025-12-21,C172,Myntra,2547.94,Credit Card,Pending,Mumbai
+T2584,2025-12-22,C179,Myntra,9326.25,Debit Card,Failed,Mumbai
+T2585,2025-12-22,C151,Amazon,5420.63,Credit Card,Success,Chennai
+T2586,2025-12-22,C136,Myntra,5323.6,Net Banking,Failed,Delhi
+T2587,2025-12-23,C138,Flipkart,7676.68,Net Banking,Success,Delhi
+T2588,2025-12-23,C155,BigBasket,779.35,Debit Card,Success,Bangalore
+T2589,2025-12-23,C114,Myntra,8299.16,Credit Card,Success,Bangalore
+T2590,2025-12-23,C171,Amazon,7003.01,UPI,Failed,Delhi
+T2591,2025-12-23,C171,Flipkart,4427.57,Debit Card,Success,Kolkata
+T2592,2025-12-24,C151,Flipkart,2103.81,Debit Card,Pending,Chennai
+T2593,2025-12-24,C185,Amazon,585.83,UPI,Pending,Chennai
+T2594,2025-12-24,C146,Amazon,6607.61,Debit Card,Success,Mumbai
+T2595,2025-12-24,C152,Swiggy,6285.13,Credit Card,Success,Chennai
+T2596,2025-12-24,C125,Flipkart,2804.25,Credit Card,Success,Chennai
+T2597,2025-12-25,C124,Myntra,5963.52,Net Banking,Success,Delhi
+T2598,2025-12-25,C161,BigBasket,5975.22,Credit Card,Pending,Kolkata
+T2599,2025-12-25,C162,Swiggy,8654.67,UPI,Pending,Kolkata
+T2600,2025-12-25,C123,Myntra,598.76,UPI,Pending,Kolkata
+T2601,2025-12-26,C156,Myntra,9447.02,UPI,Success,Chennai
+T2602,2025-12-26,C101,Flipkart,3449.22,Net Banking,Success,Bangalore
+T2603,2025-12-26,C185,Swiggy,8046.78,Debit Card,Success,Delhi
+T2604,2025-12-27,C174,Flipkart,604.35,UPI,Failed,Bangalore
+T2605,2025-12-27,C196,Swiggy,5567.31,Debit Card,Success,Mumbai
+T2606,2025-12-27,C191,Swiggy,435.39,UPI,Success,Mumbai
+T2607,2025-12-27,C174,Amazon,2844.26,Credit Card,Success,Chennai
+T2608,2025-12-27,C101,Swiggy,5370.91,Credit Card,Pending,Bangalore
+T2609,2025-12-28,C100,Amazon,1282.54,UPI,Success,Delhi
+T2610,2025-12-28,C193,BigBasket,1543.74,Net Banking,Success,Kolkata
+T2611,2025-12-28,C154,Myntra,1715.75,UPI,Success,Chennai
+T2612,2025-12-28,C125,Swiggy,9130.83,UPI,Failed,Delhi
+T2613,2025-12-29,C155,BigBasket,6349.73,Credit Card,Pending,Mumbai
+T2614,2025-12-29,C114,Amazon,263.17,Debit Card,Failed,Bangalore
+T2615,2025-12-29,C171,Flipkart,3835.09,Credit Card,Pending,Bangalore
+T2616,2025-12-30,C193,Amazon,4426.19,Debit Card,Success,Kolkata
+T2617,2025-12-30,C189,Amazon,3815.25,Net Banking,Pending,Bangalore
+T2618,2025-12-30,C194,Myntra,3010.21,Debit Card,Pending,Chennai
+T2619,2025-12-30,C159,Swiggy,9505.02,UPI,Success,Kolkata
+T2620,2025-12-31,C181,Myntra,4690.83,UPI,Success,Bangalore
+T2621,2025-12-31,C194,Swiggy,7492.64,Debit Card,Pending,Mumbai
+T2622,2025-12-31,C188,Myntra,508.41,UPI,Success,Chennai
+T2623,2025-12-31,C169,Flipkart,256.45,Credit Card,Success,Mumbai
+T2624,2025-12-31,C146,Amazon,5497.53,Credit Card,Success,Kolkata
