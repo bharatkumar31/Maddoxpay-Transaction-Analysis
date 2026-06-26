@@ -1,7 +1,6 @@
-# Maddoxpay-Transaction-Analysis
+# End-to-End FinTech Transaction Analysis
 ## Objective of the Project:
-MaddoxPay is a digital financial services platform that provides payment, banking, and financial solutions across India. It offers services such as AEPS, money transfer, bill payments, and recharges through its extensive retailer network. 
-The primary objective of this project was to analyze a transaction dataset from MaddoxPay using Python-based data analysis tools and create a visually interactive Tableau dashboard for the stakeholders. The analysis aimed to:
+The primary objective of this project is to analyze a transaction dataset from an emerging FinTech Company using Python-based data analysis tools and create a visually interactive Tableau dashboard for the stakeholders. The analysis aimed to:
  - Understand transaction patterns and trends over time (daily, monthly, and quarterly).
  - Evaluate the performance of different payment methods.
  - Examine location-wise activity in terms of both transaction count and value.
@@ -22,7 +21,7 @@ Python was the primary programming language used in this project. Its simple syn
  - Large library support
  - Efficient data analysis and visualization
 ### 2. Pandas:
-Pandas was used for data manipulation and analysis of the MaddoxPay transaction dataset.
+Pandas was used for data manipulation and analysis of the transaction dataset.
 
 **Features:**
  - Importing CSV files
@@ -55,6 +54,11 @@ openpyxl was used to create formatted Excel reports containing multiple analysis
 
 ### 6. Google Colab:
 Google Colab was used as the development environment for the project. It allowed the execution of Python code in the browser without local installation.
+
+### 7. Tableau:
+**Tableau** is a powerful business intelligence and data visualization tool used to transform raw data into interactive dashboards and meaningful visualizations. It helps analyze trends, compare performance, and uncover insights through charts, graphs, filters, and KPI dashboards, enabling data-driven decision-making.
+
+
 
 **Features:**
  - Cloud-based environment.
@@ -94,7 +98,7 @@ The dataset used in this project contained transaction records with the followin
 
 ### 4. Categorical Analysis:
  - **Payment Method Usage:** It showed us the most popular methods for transactions. The result suggested that the consumers and Indian public is using more and more digital payment methods such as UPI etc.
- - **Location-Wise Insights:** Urban regions contributed higher transaction values, while rural areas showed more transaction counts but smaller average values — a reflection of MaddoxPay’s inclusive outreach.
+ - **Location-Wise Insights:** Urban regions contributed higher transaction values, while rural areas showed more transaction counts but smaller average values — a reflection of the company's inclusive outreach.
  - **Transaction Status:** Most transactions were successful, while a small portion of failed and pending transactions highlighted opportunities for technical improvement.
 
 ### 5. Entity-Based Insights:
@@ -107,6 +111,9 @@ The dataset used in this project contained transaction records with the followin
  - Compiled all tabular data into an Excel report with multiple sheets and formatted tables using openpyxl for readability.
  - Exported all graphs into PNG images, all tables into CSV files.
 
+### 8. Tableau Dashboard:
+ - An interactive Tableau dashboard was developed to visualize key transaction insights, including KPIs, transaction trends, payment method distribution, location-wise analysis, merchant performance, and transaction status. The dashboard enables dynamic exploration of the dataset through clear and intuitive visualizations, supporting efficient business decision-making.
+   
 ## Key Findings:
 ### 1. Overall KPIs:
  - The dataset showed a steady growth in transaction volumes over the observed period.
@@ -115,22 +122,21 @@ The dataset used in this project contained transaction records with the followin
 
 ### 2. Transaction Trends:
  - Daily trends revealed fluctuations in transaction counts, often peaking during weekends and festive seasons.
- - Monthly and quarterly analysis showed upward growth.
- - The increasing trend suggests growing adoption of MaddoxPay services among customers and merchants.
+ - Monthly and quarterly analysis showed upward growth (though transaction count decreased a bit but total transaction values increased.
+ - The increasing trend suggests growing adoption of the company's services among customers and merchants.
  - High valued transactions were also found out.
 
 ### 3. Payment Method Usage:
- - It showed us the most popular methods for transactions.
+ - It showed us the most popular methods for transactions. UPI emerged to be the most popular payment method.
  - The result suggested that the consumers and Indian public is using more and more digital payment methods such as UPI etc.
- - The increasing trend suggests growing adoption of MaddoxPay services among customers and merchants.
+ - The increasing trend suggests growing adoption of the company's services among customers and merchants.
  - High valued transactions were also found out.
 
 ### 4. Location-wise Analysis:
- - Certain urban locations contributed a disproportionately high transaction value, while rural locations showed a higher transaction count but lower average value.
- - This suggests that MaddoxPay is succeeding in reaching rural consumers, though transaction sizes there remain smaller.
+ - Locations with most transactions were Chennai and Delhi.
  
 ### 5. Transaction Status:
- - A majority of the transactions were marked Successful.
+ - A majority (83.20%) of the transactions were marked Successful.
  - A small proportion of Failed and Pending transactions highlighted potential areas for technical improvement.
 
 ### 6. Merchant and Customer Insights:
@@ -142,5 +148,7 @@ The dataset used in this project contained transaction records with the followin
  - A consolidated PDF report was generated containing all graphs (bar charts, pie charts, and line graphs) for ease of presentation.
  - Also, individual png images of the graphs, pie charts etc. separately generated. And the each table corresponding to graphs, pie charts etc is also generated as a csv file.
 
+### 8. Tableau Dashboard:
+ - A visually interactive Tabelau dashboard was created for the stakeholders.
 
 
