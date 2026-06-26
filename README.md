@@ -12,6 +12,14 @@ The primary objective of this project is to analyze a transaction dataset from a
   - - Compile all tabular data into an Excel report with multiple sheets and formatted tables using openpyxl for readability.
   - - Export all graphs into PNG images, all tables into CSV files.
  - Create a visually interactive Tabelau dashboard for the stakeholders.
+
+## Dashboard Preview-
+<p align="center">
+<img src="dashboard/dashboard_preview_1.png" alt="FinTech Transaction Dashboard" width="100%">
+</p>
+
+ - Dashboard is scrollable. For full experience, click the link.
+🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/End-to-EndFinTechTransactionAnalysis)
 ## Technology used:
 ### 1. Python: 
 Python was the primary programming language used in this project. Its simple syntax and extensive libraries made it suitable for data analysis, visualization, and report generation.
@@ -55,16 +63,14 @@ openpyxl was used to create formatted Excel reports containing multiple analysis
 ### 6. Google Colab:
 Google Colab was used as the development environment for the project. It allowed the execution of Python code in the browser without local installation.
 
-### 7. Tableau:
-**Tableau** is a powerful business intelligence and data visualization tool used to transform raw data into interactive dashboards and meaningful visualizations. It helps analyze trends, compare performance, and uncover insights through charts, graphs, filters, and KPI dashboards, enabling data-driven decision-making.
-
-
-
 **Features:**
  - Cloud-based environment.
  - Access to pre-installed libraries.
  - Easy integration with Google Drive.
  - Simple sharing and collaboration.
+
+### 7. Tableau:
+**Tableau** is a powerful business intelligence and data visualization tool used to transform raw data into interactive dashboards and meaningful visualizations. It helps analyze trends, compare performance, and uncover insights through charts, graphs, filters, and KPI dashboards, enabling data-driven decision-making.
 
 ## Dataset Description:
 The dataset used in this project contained transaction records with the following key fields:
@@ -149,6 +155,8 @@ The dataset used in this project contained transaction records with the followin
  - Also, individual png images of the graphs, pie charts etc. separately generated. And the each table corresponding to graphs, pie charts etc is also generated as a csv file.
 
 ### 8. Tableau Dashboard:
- - A visually interactive Tabelau dashboard was created for the stakeholders.
+ - Developed an interactive Tableau dashboard to visualize KPIs, transaction trends, payment method distribution, location-wise performance, merchant insights, customer activity, and transaction status.
+ - The dashboard enables users to filter, explore, and analyze transaction data interactively for better business decision-making.
+ - 🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/End-to-EndFinTechTransactionAnalysis)
 
 
