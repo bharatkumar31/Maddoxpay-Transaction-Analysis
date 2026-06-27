@@ -19,7 +19,7 @@ The primary objective of this project is to analyze a transaction dataset from a
 </p>
 
  - For full dashboard experience, click the link.
-🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/End-to-EndFinTechTransactionAnalysis)
+🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/FinTechTransactionAnalysisDashboard?publish=yes)
 ## Technology used:
 ### 1. Python: 
 Python was the primary programming language used in this project. Its simple syntax and extensive libraries made it suitable for data analysis, visualization, and report generation.
@@ -158,6 +158,6 @@ The dataset used in this project contained transaction records with the followin
 ### 8. Tableau Dashboard:
  - Developed an interactive Tableau dashboard to visualize KPIs, transaction trends, payment method distribution, location-wise performance, merchant insights, customer activity, and transaction status.
  - The dashboard enables users to filter, explore, and analyze transaction data interactively for better business decision-making.
- - 🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/End-to-EndFinTechTransactionAnalysis)
+ - 🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/End-to-EndFinTechTransactionAnalysisDashboard/FinTechTransactionAnalysisDashboard?publish=yes)
 
 
