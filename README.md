@@ -15,7 +15,7 @@ The primary objective of this project is to analyze a transaction dataset from a
 
 ## Dashboard Preview-
 <p align="center">
-<img src="dashboard/dashboard_full_preview.png" alt="FinTech Transaction Dashboard" width="100%">
+<img src="dashboard/dashboard_full_preview_1.png" alt="FinTech Transaction Dashboard" width="100%">
 </p>
 
  - For full dashboard experience, click the link.
