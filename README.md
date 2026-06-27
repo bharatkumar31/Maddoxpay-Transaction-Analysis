@@ -123,7 +123,7 @@ The dataset used in this project contained transaction records with the followin
 ## Key Findings:
 ### 1. Overall KPIs:
  - The dataset showed a steady growth in transaction volumes over the observed period. Total transaction volume was Rs. 55,48,036/- and total number of transactions were 1625.
- - The success rate of transactions was good (83.20%), indicating reliability of the payment system.
+ - The success rate of transactions was moderately good (83.20%), indicating reliability of the payment system.
  - The average transaction value remained within a consistent range of Rs. 3414/- , reflecting stable customer spending behavior.
 
 ### 2. Transaction Trends:
